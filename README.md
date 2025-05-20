@@ -1,18 +1,23 @@
-# ahdl-social-prescribing-korea-lda-2025-04
-Official code for the paper "A machine learning-based effectiveness and strategies of social prescribing in Korea: A scoping review" (2025)
+# AHDL-Social-Prescribing-Korea-LDA-2025-04
+
+Official code for the paper:  
+**"A machine learning-based effectiveness and strategies of social prescribing in Korea: A scoping review" (2025)**
 
 
-This repository contains the official implementation of the study titled:
-"A machine learning-based effectiveness and strategies of social prescribing in Korea: A scoping review" (2025).
+## Overview
 
-The codebase supports the full experimental workflow including:
+This repository contains the full implementation of our study on social prescribing in Korea using machine learning techniques. The project includes:
 
-Data collection and preprocessing of literature sources
+- NLP-based text mining and topic modeling (including LDA)  
+- Clustering and classification of extracted themes  
+- Exploratory data analysis and visualization  
+- Insights on effectiveness and strategic categorization
 
-NLP-based text mining and clustering
+The goal of this project is enable future research at the intersection of **digital health**, **public policy**, and **machine learning**.
 
-Exploratory and statistical analysis
 
-Visualization for key findings
 
-The project aims to support reproducibility and foster further research in the intersection of digital health, public policy, and machine learning.
+## Contact
+For questions, suggestions, or collaborations:
+- Email: lbados.kim@gmail.com
+- Lab/Grop: AHDL(AI Health Data Lab, Yonsei University)

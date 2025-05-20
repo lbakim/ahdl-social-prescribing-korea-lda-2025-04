@@ -1,0 +1,7 @@
+--- NMF (k=6) Top 10 Words per Topic (Final Saved Model) ---
+Topic 0: experimental, control, cognitive, function, test, platform, score, digital, variable, covid
+Topic 1: museum, protocol, element, evaluation, solve, value, methodology, framework, citizen, implementation
+Topic 2: rural, garden, storytelling, music, yr, score, older, subject, esteem, student
+Topic 3: death, solitary, household, society, integrate, referral, ministry, resident, person, enact
+Topic 4: coronavirus, distance, covid, case, infectious, outbreak, prescriber, current, isolate, situation
+Topic 5: canada, ontario, map, case, heungeup, country, university, myeon, capacity, indicator

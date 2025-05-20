@@ -1,0 +1,138 @@
+Effectiveness of Social Prescribing for Preventing Depression and Dementia of the Elderly Living in the Rural Area
+
+Abstract
+
+Purpose: This study was to evaluate the effects of a social prescribing program on cognitive function and depression of the elderly in the rural community.
+Methods: A non-equivalent control group pretest-posttest design was used for this study. The experimental group (n=76) completed a 8-week intervention of social prescribing, while the control group (n=39) only participated in pre- and post- need assessment from April 2021 to October 2022. A Wilcoxon signed rank test was conducted to evaluate the effectiveness of a social prescribing program on the level of cognitive function and depression of the participants.
+Results: The level of cognitive function was improved significantly in the experimental group (p<.05) while there was no significant change in the control group. Depression has been significantly decreased in the experimental group (p<.01), but there was no statistically significant change in the control group.
+Conclusion: The results of this study suggest that the social prescribing program is effective for improving cognitive function and reducing depression of the elderly living in the rural area. Therefore, a social prescribing program can be utilized as a preventive program for dementia and depression of the elderly.
+
+Key Words: Social prescribing; Cognitive function; Depression; Aged; Rural area
+주요어: 사회적처방, 인지기능, 우울감, 노인, 농촌 (Keywords: Social prescribing, Cognitive function, Depression, Elderly, Rural area)
+
+Corresponding author: Nam, Eun Woo
+Department of Health Administration, Yonsei University, 1, Yeonsedae-gil, Heungeop-myeon, Wonju 26493, Korea.
+Tel: +82-33-760-2413, Fax: +82-33-760-2519, E-mail: ewnam@yonsei.ac.kr
+
+This research is the result of the "Regional Innovation Strategy (RIS)" based on local government-university cooperation, which was carried out with the support of the National Research Foundation (NRF) of Korea, funded by the Rural Nursing Association research fund support project and the Ministry of Education (MOE) in 2022 (2022RIS-005).
+Received: Dec 30, 2022 / Revised: May 24, 2023 / Accepted: May 24, 2023
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+ⓒ 2023 Korean Academy of Rural Health Nursing
+Journal of Korean Academy of Rural Health Nursing Vol. 18 No. 1, 1-10, June, 2023
+https://doi.org/10.22715/jkarhn.2023.18.1.1   
+
+I. Introduction
+
+1. Need for Study
+
+Aging in Korea is progressing rapidly, with the proportion of the elderly population aged 65 and over projected to exceed 46.4% by 2067, up from 17.5% in 2022 [1]. The estimated dementia prevalence among elderly aged 65 and over was 10.3% (approx. 840,000 people) in 2020, and it is estimated to reach 15.9% (3.02 million people) by 2050 as the number of older elderly increases [2]. Dementia management costs include direct costs for treatment and care of dementia patients, as well as indirect costs such as lost work time for dementia caregivers and healthcare costs due to caregiving burden. The national cost of dementia management (medical and social care) is expected to balloon to over 100 trillion won in the future [2]. Having accounted for 0.9% of the Gross Domestic Product (GDP) (16.5 trillion won) in 2019, the national dementia management cost is estimated to rise to 3.8% of GDP (103.1 trillion won) by 2050 [2].
+
+Alongside dementia, depression is also a common disorder in old age, prompting many researchers to investigate the causal relationship between the two. Regarding the correlation between elderly depression and cognitive function, studies show that elderly individuals with depression, especially those accompanied by cognitive impairment, have a higher rate of conversion to dementia compared to the general elderly population [3]. Furthermore, the onset of depressive symptoms in elderly patients increases the risk of Alzheimer's disease, and late-onset depression is closely related to cognitive impairment, suggesting depression can be a risk factor for dementia, including cognitive decline [4].
+
+In the UK, mental health issues like loneliness and depression, as well as suicide among the elderly, emerged as significant social problems. This led the UK government to plan social prescribing programs through collaboration between local communities and medical professionals [5]. Through this, they anticipate not only reducing the workload of General Practitioners (GPs) within the community primary healthcare system but also achieving long-term reductions in National Health Service (NHS) financial expenditure [6]. Social prescribing is a system where community personnel such as doctors, nurses, and social workers refer patients to non-medical service providers within the community. Social prescribing includes activities like volunteering, arts such as music and painting, group learning, gardening, cooking classes, healthy eating education, and various sports activities [7]. In Korea, the Yonsei University Healthy City Research Center is currently conducting a social prescribing pilot project targeting elderly individuals in rural areas of Gangwon-do [8].
+
+International research provides examples suggesting that social prescribing activities are effective in improving cognitive function and reducing depression. Regarding cognitive function improvement, a study conducted in London, UK, found that participation in community cultural activities – such as museums, galleries, and music performances – was associated with a reduced risk of dementia. Additionally, social activities through community groups were shown to help improve cognitive function in isolated elderly individuals [9]. Research in Japan also indicated that social group activities – including volunteering, visiting friends, hobby activities, work activities, and farm work – reduced the risk of dementia [10]. A US study revealed that participation in work activities and worship activities like church attendance prevented the onset of cognitive impairment [11].
+
+Previous studies also indicate that social prescribing is effective in reducing depression. In 2018, the City of London proposed social prescribing as a non-pharmacological prescription alongside medication for citizens experiencing mental difficulties such as loneliness or depression. An RCT study in the UK involving 66 patients with moderate anxiety and depression found a 70% reduction in depression after a 12-week social prescribing program consisting of arts activities [12]. Furthermore, a report on the effectiveness of a social prescribing program implemented in a London borough also demonstrated the program's effect on reducing participants' depression [13].
+
+While numerous overseas studies have investigated the effects of social prescribing programs based on social and cultural/arts activities on improving cognitive function and reducing depression in the elderly, research on the impact of social prescribing on elderly cognitive function and depression is scarce in Korea. Therefore, the purpose of this study is to confirm the effectiveness of a social prescribing pilot project implemented for elderly individuals aged 65 and over residing in rural areas. The specific objectives of the study are as follows: First, to confirm the effect of the social prescribing program on improving the cognitive function of the elderly. Second, to confirm the effect of the social prescribing program on reducing depression among the elderly.
+
+Methods
+
+1. Research Design
+
+This study used a non-equivalent control group pretest-posttest design to verify the effects of social prescribing intervention on changes in participants' cognitive function and depression. This quasi-experimental research design designates the group participating in the intervention over a certain period as the experimental group, and the group not participating during the same period as the control group (Table 1).
+
+
+E1, E2: Measurement of cognitive function and depression in the experimental group; C1, C2: Measurement of cognitive function and depression in the control group; X1: Social prescribing program (8 weeks).
+
+2. Study Participants
+
+The participants of this study were 115 elderly individuals aged 65 and over residing in Heungeup-myeon and Munmak-eup, Wonju-si, Gangwon-do. The experimental group consisted of 76 individuals who completed an 8-week course of social prescribing intervention between April 2021 and October 2022. The control group comprised 39 individuals who participated only in the pre- and post-surveys without receiving the intervention during the same period. The required minimum sample size for this study was confirmed to be 35 using the G*Power program for the Wilcoxon signed-rank test. Two criteria were set for participant selection, and elderly individuals meeting these criteria were chosen. First, elderly individuals recommended by local primary care institutions (doctor or nurse) or social workers as needing the intervention. Second, individuals capable of routine communication, without hearing or visual impairments, mobile, and voluntarily wishing to participate were selected.
+
+3. Intervention (Social Prescribing Activities) Content and Operation
+
+The intervention in this study consisted of the Music Storytelling program (Table 2), a gardening program (Table 3), and a flower tea program (Table 4). The programs were operated by three experts at a small library social prescribing education center within the community. Sessions were held once a week for 90 minutes each, over an 8-week period per cycle. Three researchers from the Healthy City Research Center served as Link Workers for this project.
+
+(Table 2. Music Storytelling Program - Assumed to be provided mostly in English)
+(Table 3. Gardening Program - Assumed to be provided mostly in English)
+(Table 4. Flower Tea Program - Assumed to be provided mostly in English)
+
+4. Research Tools
+
+To measure the effectiveness of the social prescribing intervention program, cognitive function and depression were used as variables. The tools used to confirm the pre-post changes for each variable are as follows:
+
+First, the Korean Version of the Mini-Mental State Examination (MMSE-K) was used as the cognitive function measurement tool. Developed by Kwon Yong-cheol and Park Jong-han (1989) [14], the MMSE-K is a partially revised version of the original MMSE, considering the prevalence of illiteracy among Korean elderly by excluding the reading item and adding new items for comprehension and judgment. The MMSE-K consists of orientation (10 points), memory registration (3 points), memory recall (3 points), attention and calculation (5 points), language function (7 points), and comprehension and judgment (2 points), totaling 30 points. Scores are interpreted as: 24 or above 'definite normal,' 20-23 'suspected dementia,' and 19 or below 'definite dementia,' with 24/23 generally used as the cutoff for cognitive impairment. The reliability (Cronbach’s α) of the MMSE-K tool in this study was .78.   
+
+Second, the Short-form Geriatric Depression Scale-Korea Version (SGDS-K) was used as the depression measurement tool. This study used the Korean version of the Short form Geriatric Depression Scale (SGDS-K), which was adapted and standardized by Kee Baek-seok (1996) [16] from the simplified geriatric depression tool (SGDS) developed by Yesavage et al. (1983) [15]. The tool consists of 15 items, each with a binary scale ('yes'=1, 'no'=0). The total score ranges from 0 to 15, with higher scores indicating greater levels of depression. Scores are interpreted as: 5 or below 'normal,' 6-9 'moderate depression,' and 10 or above 'depression.' The reliability (Cronbach’s α) in this study was .77.
+
+Among socio-demographic characteristics, 'literacy' was measured by asking the participant 'Can you read and write Korean?' If the response was 'yes,' literacy was recorded as present; if 'no,' literacy was recorded as absent.
+
+5. Data Collection
+
+Data were collected after issuance of a social prescribing referral form by a doctor, nurse, or social worker. Participating researchers (Link Workers) collected data through one-on-one interviews, asking questions from the questionnaire and recording responses. The same questionnaires (MMSE-K, SGDS-K) were used for surveys conducted before and after the social prescribing intervention program (total 2 times).
+
+Pre-surveys, social prescribing intervention, and post-surveys were conducted for the experimental group. Only pre- and post-surveys were conducted for the control group.
+
+6. Data Analysis
+
+This study analyzed the research data using the SPSS/WIN 26.0 statistical program with the following statistical analysis methods. First, frequency analysis and mean analysis were performed to identify participants' socio-demographic characteristics, cognitive function, and depression levels. Second, Chi-square tests and Mann-Whitney U tests were conducted for homogeneity testing of socio-demographic characteristics, cognitive function, and depression between the experimental and control groups. Third, the Wilcoxon signed-rank test was performed for evaluating the effect of the social prescribing intervention.
+
+7. Ethical Considerations
+
+Before conducting the survey, the investigator explained the purpose of data collection and usage to each research participant based on the written consent form and promised to protect the anonymity of the participants in all research data utilization. If the participant consented to the survey and data usage, their signature was obtained on the written consent form. The study received approval from the Yonsei University Mirae Campus Institutional Review Board before execution (1041849-202206-SB-105-01).
+
+Results
+
+1. Socio-demographic Characteristics of Participants
+
+Analysis of the socio-demographic characteristics of the study participants revealed that 82.6% were female, with an average age of 79.01±6.62 years. Among the surveyed participants, 47.0% were living alone, 43.5% had a spouse, and 81.7% were literate. The most common religion was Protestantism at 37.4%. Regarding subjective economic level, 49.6% responded 'middle' and 49.6% responded 'lower,' with 0.9% responding 'upper.' The most common main source of income was basic living security benefits, reported by 31.3%, followed by 'pension or retirement allowance' (25.2%), earned income (18.3%), children's support (13.0%), and property/rental income (10.4%). When asked about subjective health level, 'good' was the most common response at 35.7%, followed by moderate (25.2%), very good (19.1%), bad (16.5%), and very bad (3.5%) (Table 5).
+
+(Table 5. Socio-demographic Characteristics of Participants - Assumed to be provided)
+
+2. Results of Homogeneity Test between Experimental and Control Groups for Socio-demographic Characteristics
+
+To assess the homogeneity between the experimental and control groups regarding socio-demographic characteristic variables and intervention effect variables, t-tests and Chi-square tests were performed on the experimental and control groups at the pre-intervention time point.
+The results of the homogeneity test for socio-demographic characteristic variables - sex (p=1.000), age (p=.694), living alone status (p=.518), presence of spouse (p=.193), literacy (p=1.000), religion (p=.852), subjective economic level (p=1.000), main source of income (p=.452), and subjective health level (p=.188) - showed no statistically significant differences between the experimental and control groups for any variable. Therefore, the homogeneity of the experimental and control groups regarding socio-demographic characteristics was confirmed (Table 6).
+
+(Table 6. Results of Homogeneity Test between Experimental and Control Groups for Socio-demographic Characteristics - Assumed to be provided)
+
+The results of the homogeneity test for the intervention effect variables, cognitive function (p=.438) and depression (p=.185), showed no statistically significant differences between the experimental and control groups for either variable. Thus, the homogeneity of the experimental and control groups regarding the intervention effect variables was confirmed (Table 7).
+
+(Table 7. Results of Homogeneity Test between Experimental and Control Groups for Cognitive Function and Depression - Assumed to be provided)
+
+3. Results of Intervention Effect Evaluation
+
+To evaluate the effect of the social prescribing intervention program on cognitive function and depression, a Wilcoxon signed-rank test was performed. The results showed that the experimental group's cognitive function significantly increased from 25.24 points pre-intervention to 26.28 points post-intervention, an improvement of 1.04 points (p=.022). In contrast, there was no significant change in cognitive function in the control group. The experimental group's depression score significantly decreased from 6.61 points pre-intervention to 5.60 points post-intervention, a reduction of 1.01 points (p=.004). There was no statistically significant change in the control group's depression score pre- and post-intervention (Table 8).
+
+(Table 8. Results of Wilcoxon Signed-Rank Test for Cognitive Function and Depression - Assumed to be provided)
+
+Discussion
+
+This study used a non-equivalent control group pretest-posttest design and Wilcoxon signed-rank test for statistical analysis to evaluate the effectiveness of social prescribing program activities conducted for elderly individuals residing in the rural areas of Heungeup-myeon and Munmak-eup in Wonju-si, Gangwon-do. The results indicated that cognitive function and depression significantly improved in the experimental group, while no significant results were observed in the control group.
+As part of the response to the estimated dementia prevalence (10.3%) and depression prevalence (13.5%) among Korean elderly as of 2020, the Yonsei University Healthy City Research Center research team is implementing a social prescribing pilot project targeting elderly individuals aged 65 and over residing in a rural area of Wonju-si, Gangwon-do.
+
+In the UK, the social prescribing support process within the primary healthcare system aims for patients to recover mental, physical, and social health through diagnosis by a GP, receiving a social prescribing referral, and subsequent introduction and participation in social prescribing programs like music classes, art classes, cooking classes, and horticultural activities via a Link Worker [17].
+
+This study demonstrated that a social prescribing program implemented utilizing primary healthcare facilities such as public health subcenters and primary healthcare posts, in collaboration with community cultural facilities like small libraries, was effective in improving cognitive function and reducing depression among the elderly in a Korean rural area. This suggests the feasibility of implementing social prescribing programs utilizing local primary healthcare systems and cultural facilities.
+
+The social prescribing intervention content in this study consisted of Music Storytelling based on music therapy and reminiscence therapy, gardening activities, and flower tea making and tasting. Experiencing various new stimuli through these social prescribing activities can promote the activation of the frontal lobe area, thereby improving attention and concentration in the elderly, which can contribute to cognitive function improvement [18].
+
+Reviewing previous studies evaluating the effects of similar programs conducted for improving elderly cognitive function: Regarding music therapy, a domestic study by Shin Bo-young and Hwang Eun-young [19] implemented a music therapy program consisting of instrument playing, singing, and movement for elderly with mild and moderate Alzheimer's disease (30 minutes per session, once a week, total 10 sessions). Measuring cognitive function changes using tools like the Seoul Verbal Learning Test (from SNSB) and language comprehension, they found significant improvements in cognitive functions such as attention and repetition, consistent with our study results. Music activities, by enabling elderly individuals to learn using visual cues like lyrics, symbols, and numbers, effectively improve memory, attention, and language skills [19]. The social prescribing intervention in our study, involving processes where elderly learned and performed lyrics and rhythms, likely improved cognitive function due to enhanced attention and memory. In Finland, Sarkamo et al.'s study [20] involved 89 elderly with mild and moderate dementia participating in a program where they shared emotions, thoughts, and evoked memories within the group after listening to music (once a week for 10 weeks). Confirming cognitive function changes using tools like the MMSE, they found improvements in cognitive and executive functions, also aligning with our study results. Activities involving reminiscing about the past related to music stimulate the amygdala, the brain's emotional circuit, which helps improve memory [21]. Therefore, the activity in our Music Storytelling program where elderly recalled and shared their youth is also presumed to have contributed to cognitive function improvement.
+
+The intervention in this study included horticultural therapy, defined as 'a systematic and scientific healing process aimed at physical rehabilitation and mental recovery by cultivating psychological, social, and proactive adaptability through various horticultural activities using plants as materials' [22]. Domestic prior studies on the effect of horticultural therapy on elderly cognitive function, such as Lim Eun-jung et al.'s research [23], implemented a horticulture-based occupational therapy program for 20 elderly individuals (once a week, total 12 sessions). The results confirmed significant positive effects on elderly cognitive function and activities of daily living levels, consistent with our findings. It is suggested that various sensory stimuli experienced by elderly participants through familiar plants during horticultural activities can trigger reminiscence, stimulating long-term memory and activating brain function, thereby enhancing memory and attention and preventing cognitive decline [24]. Furthermore, the activity of growing plants is reported to activate remaining brain cells through brain plasticity, improving cognitive functions like memory and language skills during horticultural activities [25].
+
+The field of preventive medicine emphasizes the importance of disease prevention through herbs like flower tea [26]. Regarding activities like drinking flower tea, Lee Jong-hee et al.'s study [27] implemented reminiscence-based horticultural activities and flower tea drinking for dementia patients (once a week for 10 sessions). Confirming cognitive function changes with MMSE-K, they found significantly improved cognitive function in the experimental group compared to the control group, consistent with our results. It has been revealed that polyphenols, antioxidant components contained in edible flowers, are effective in preventing brain diseases such as senile dementia [28]. Additionally, increased interaction among the elderly during various social prescribing activities has been reported to reduce loneliness, leading to decreased depression [29].
+
+Based on these research findings, the utilization of social prescribing programs appears feasible as a measure for improving cognitive function and depression among community-dwelling elderly within the rural Primary Health Care system. Furthermore, as proposed in Nam Eun-woo's study [30], building community participatory networks for social prescribing in collaboration with various community organizations will be necessary for future community health promotion.
+
+Future research is needed to evaluate the sustainability of the social prescribing intervention effects on cognitive function and depression after program completion.
+
+Conclusion and Suggestions
+
+This study verified the effectiveness of a social prescribing intervention aimed at improving cognitive function and reducing depression among elderly aged 65 and over in a rural area. The results confirmed that social prescribing is effective as a preventive program for elderly depression and dementia. Social interaction achieved through social prescribing activities was shown to reduce loneliness and lower depression levels among the elderly. Additionally, social prescribing activities, composed of diverse elements like music therapy, horticultural therapy, and flower tea programs, are known from previous research to promote brain activation, enhancing concentration, attention, and memory, thereby improving cognitive function. This suggests the potential for expanding social prescribing programs such as Music Storytelling, gardening activities, and flower tea making/tasting to improve cognitive function and reduce depression among rural elderly in the future.
+
+Acknowledgements
+
+We express our gratitude to Mr. Nam Hae Kweun (PhD candidate, Department of Preventive Medicine, Yonsei University Wonju College of Medicine), Director Kim Hae Kyung (Heung-eop Community Library, Wonju), and Director Hong Seok Mi (Saje Primary Healthcare Post, Wonju) for their assistance in implementing the social prescribing program.

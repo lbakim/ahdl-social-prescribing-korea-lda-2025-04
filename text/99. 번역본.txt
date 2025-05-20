@@ -1,0 +1,447 @@
+Department of Health Administration
+The Graduate School
+Yonsei University
+Yoon, Hye Jin
+
+(Thesis Title Page - Korean Version Translated - Note: Only title provided in this excerpt)
+Evaluation of the effectiveness of the social prescribing pilot project for the elderly using a digital platform
+
+ABSTRACT
+
+Effectiveness of a Social Prescribing Pilot Project Using a Digital Platform
+
+Yoon, Hye Jin
+Dept. of Health Administration
+The Graduate School
+Yonsei University
+
+Objectives: With the prolonged COVID-19 outbreak, movement restrictions because of social distancing are causing many problems to people's mental and physical health, and the damage is greater for older adults. In this study, a social prescribing pilot project was conducted using a digital platform, and its effectiveness was identified.
+
+Method: An inequality pre-post control group design model was used to examine the treatment effects of older adults who participated in the social prescribing pilot project and those who did not participate; a total of 34 participants were included. We collected data using one-on-one questionnaires (depression, social support, life satisfaction, and cognitive function) and examinations (blood pressure, height, and weight) at primary care institutions. The mediation program—music storytelling—was conducted using Zoom
+
+Results: Compared with the control group, the experimental group showed significantly improved social support and life satisfaction scores and significantly decreased depression scores. The systolic blood pressure in the experimental group showed a significant decrease.
+
+Conclusion: It has been confirmed that the social prescribing pilot project using a digital platform was effective in promoting the health of the elderly, and it is expected to revitalize the stagnant community with COVID-19. Furthermore, as part of Korea's community care policy, it will be provided as evidence to explore a new plan called social prescribing.
+
+Key words : COVID-19, Social prescribing, Digital platform, elderly, Community care
+
+1 -
+I. Introduction
+
+1. Research Background
+
+As the Coronavirus Disease 19 (COVID-19, hereafter COVID-19) pandemic prolongs, various socio-economic problems are emerging. Among them, mental health issues are particularly severe, as reported through numerous media outlets. According to a report by the Ministry of Health and Welfare in July 2021, 1 in 5 citizens belongs to the depression risk group after the COVID-19 outbreak, with the average depression score (5.0 points) more than doubling compared to before the outbreak (2.1 points in 2019) (JoongAng Ilbo, 2021). Similar to other age groups, the elderly, who are prone to social isolation, are also greatly affected and face significant threats to survival (Silver Eye News, 2021).
+
+The World Health Organization (WHO) designated individuals aged '60 and over' as a high-risk group for COVID-19 and urged special attention to elderly health management (WHO, 2020). However, due to the characteristics of the elderly who require diverse services such as health promotion, preventive services, primary care, specialized treatment, long-term care, and welfare (Lee Yoon-hwan, 2015), social distancing, the primary preventive measure against COVID-19, is adversely affecting their health. Restrictions on social activities resulting from social distancing are causing mental health problems like depression (Banerjee, 2020; Salari et al., 2020) and reducing their quality of life and life satisfaction (Junghoon Ahn, 2021). Furthermore, reduced physical activity exacerbates chronic underlying diseases (Kim, 2020) and also impacts the cognitive function decline in the elderly (Ismail et al., 2021). According to a recent domestic study targeting older adults, restrictions on movement and physical activity due to COVID-19 intensify feelings of depression and isolation among the elderly.
+
+2 -
+With the suspension of facilities frequented by the elderly, such as senior centers and welfare centers, they report feeling more boredom than before (Shin et al., 2020). Additionally, lack of physical activity due to COVID-19 can lower immunity, potentially increasing the risk of respiratory diseases, cardiovascular diseases, and sarcopenia (Woods et al., 2020). In essence, COVID-19 not only directly impacts the elderly as a high-risk infectious disease but also has direct and indirect effects on their physical, mental, and social aspects.
+
+Many solutions are being proposed to overcome the problems associated with social distancing policies due to COVID-19. The need for elderly services utilizing digital platforms like Skype, Zoom, and YouTube is emerging, and actual demand is increasing (Antonello et al., 2020; Llorente et al., 2021). Recently, domestic dementia relief centers and elderly welfare centers are providing cognitive rehabilitation programs and cultural activity services for the elderly using digital platforms to address mental health issues arising from COVID-19 (Gangdong Senior Welfare Center, 2021; Daegu Dong-gu Dementia Relief Center, 2021). However, compared to other age groups, the elderly have lower 'Digital Literacy,' making the provision of services using digital platforms not yet widespread (Kim Hak-sil & Shim Jun-seop, 2020). Nevertheless, as restrictions on social activities due to COVID-19 significantly impact the health and quality of life of the elderly, intervention programs utilizing digital platforms that can be implemented while maintaining social distancing are being developed.
+
+Meanwhile, the UK implements a community-based 'social prescribing' system. Introduced by the UK NHS in 2016, social prescribing refers to providing non-pharmacological assistance available within the community rather than medication prescriptions to citizens experiencing mental and emotional difficulties (Drinkwater et al., 2019). The goal of social prescribing extends beyond treating illness; it aims to improve health and quality of life by addressing health problems stemming from social
+
+3 -
+causes. Social prescribing programs include various activities available for community participation, such as arts activities, physical activities, and community volunteering (Chatterjee et al., 2017). Recent research suggests that social prescribing can alleviate the mental distress caused by social isolation during the COVID-19 pandemic, emphasizing the need for close community linkage and cooperation for effective management (Green, 2020). Accordingly, UK Health Secretary Matt Hancock spoke about the importance of social prescribing in the national effort against COVID-19 at the National Academy for Social Prescribing (NASP) event on March 12, 2020 (Matt, 2020). Professor Helen Stokes-Lampard, Chair of NASP, also highlighted the importance of social prescribing in strengthening communities during the socially distancing era of COVID-19 (Helen, 2020). Due to the spread of COVID-19, the delivery method of social prescribing is also changing, incorporating digital platforms. The UK, a leader in social prescribing, is continuously researching and developing social prescribing as a method to cope with COVID-19, including the development of the online digital social prescribing platform 'ELEMENTAL SOFTWARE' by a non-profit organization (Elemental, 2021).
+
+Therefore, this study was conducted to examine the effectiveness of a social prescribing pilot project for the elderly utilizing a digital platform, implemented centered around the community during the COVID-19 period.
+
+4 -
+2. Research Purpose
+
+The purpose of this study is to identify the effectiveness of a social prescribing pilot project utilizing a digital platform, targeting the vulnerable elderly population during the COVID-19 pandemic situation. The specific research objectives are as follows:
+
+First, to confirm changes in depression, cognitive function, blood pressure, and BMI among the elderly before and after the social prescribing pilot project.
+Second, to confirm changes in perceived social support and life satisfaction among the elderly before and after the social prescribing pilot project.
+
+5 -
+II. Theoretical Background
+
+1. COVID-19
+
+1.1 Definition of COVID-19
+
+Coronavirus Disease 19 (COVID-19) is a new type of respiratory infectious disease that first occurred in Wuhan, China in December 2019 and subsequently spread worldwide. Initially known as a respiratory epidemic of unknown cause, the pathogen was identified on January 9, 2020, when the World Health Organization (WHO) announced that the cause of the pneumonia was a novel type of coronavirus (SARS-CoV-2) (Chae Soo-mi, 2020). COVID-19 can infect people of all ages. Similar to most respiratory viruses, it is primarily transmitted directly through droplets from infected individuals or indirectly through contact with contaminated environmental fomites. Symptoms of COVID-19 range widely, from asymptomatic cases to acute respiratory infections and severe pneumonia, commonly including fever, cough, sore throat, and headache (Kim, 2020).
+The disease was initially called 'Wuhan pneumonia,' but following the WHO's 2015 recommendation against using geographical locations, personal names, or cultural references in disease names, it was termed 'novel coronavirus infection.' Subsequently, on February 11, 2020, the WHO officially named the coronavirus disease 'COVID-19,' where CO stands for Corona, VI for Virus, D for Disease, and 19 for the year of onset (2019). Accordingly, the South Korean government designated the official Korean name as '코로나바이러스감염증-
+
+6 -
+19' and announced the abbreviation '코로나19' (Lee & Byun, 2021).
+
+1.2 COVID-19 and the Elderly
+
+As of September 9, 2020, South Korean health authorities reported that among the COVID-19 patients undergoing treatment domestically, 154 were critically or severely ill. Of these, 133 (86.4%) were aged 60 or over, prompting warnings for careful health management among the vulnerable elderly population. According to data from the US Centers for Disease Control and Prevention (CDC) in March 2020, approximately 80% of fatalities were among elderly aged 65 and over. Among 2,449 patients hospitalized for COVID-19 in the US from February 12 to March 16, 2020, case fatality rates increased with age: 3-5% for 65-74 years, 4-11% for 75-84 years, and 10-27% for 85 years and older. With the elderly population confirmed to be most affected both globally and in Korea, the WHO designated '60 years and over' as a high-risk group for COVID-19, urging particular caution in elderly health management as older adults with weaker baseline health are more susceptible to infection and severe symptoms (Cho, 2020).
+Prior research on infectious disease pandemics indicates that the elderly face significant potential risks from psychological factors in addition to the actual risks of infection itself (Lee & Kang, 2020). Research related to Severe Acute Respiratory Syndrome (SARS) suggested a correlation between the SARS outbreak and the elderly suicide rate in Hong Kong in 2003 (Cheung et al., 2008). Klaus's study found that over half of the patients infected with the Ebola virus in 2014 experienced anxiety, depression, and PTSD even after recovery (Kamara et al., 2017). Similarly, a mental health study in China reported that among 60,199 participants, 62.65% showed mild depression after COVID-19, and 11.33% experienced moderate or severe depression. Furthermore, 41.27% of participants experienced moderate or severe anxiety,
+
+7 -
+with this trend worsening with increasing age (Jiang et al., 2020).
+Anne's study targeting Korean elderly found that after the COVID-19 outbreak, the elderly experienced higher levels of depression and loneliness due to social isolation (Krendl & Perry, 2021). Thus, the spread of infectious diseases impacts not only physical risks associated with the disease itself but also psychological risks such as anxiety and depression. Particularly for the elderly, who require complex services including medical and care services for daily living, service interruptions due to infectious diseases have a more critical impact. The lack of necessary services due to COVID-19 leads to reduced dietary intake and nutritional supply, and physical inactivity, which exacerbates chronic underlying conditions. It also results in increased anxiety and depression due to social isolation, cognitive decline, and worsening of chronic diseases (Cho, 2020).
+
+2. Social Prescribing
+
+2.1 Definition of Social Prescribing
+
+Social prescribing is a method for improving the health and well-being of patients in primary care by connecting them with the community, originating from the recognition of the social determinants of health as published by the WHO (Bickerdike et al., 2016.). The goal of social prescribing extends beyond disease treatment to improving health and quality of life by addressing health problems stemming from social causes. Social prescribing programs include various community-participatory activities such as arts, physical activity, and community volunteering (Chatterjee et al., 2017).
+While there is no single clear definition of social prescribing, it generally proceeds through the following process.
+
+8 -
+First, a GP (General Practitioner), alongside conventional treatment methods, considers non-medical options for enhancing a patient's health and welfare, referring patients who do not require medical treatment to a Link Worker. The Link Worker acts as a 'Care-navigator,' guiding the patient towards appropriate treatment. They design necessary solutions for the referred patient and subsequently connect the patient to community organizations (Drinkwater et al., 2019). As such, the social prescribing model focuses on improving the patient's health, quality of life, and well-being, helping them live life 'well' to the fullest extent possible.
+Social prescribing targets a diverse range of people, namely: those with one or more underlying health conditions, those needing mental health support, those who are lonely or isolated, and those with social needs. Social prescribing should not be perceived as a low-cost alternative replacing other medical services, including national mental health provisions, and is distinct from social work or occupational therapy. Social prescribing is a universal healthcare model, provided as a personalized care service for the entire population (Kang Mi-hwa et al., 2021).
+
+2.2 Necessity of Social Prescribing
+
+A 2018 report by the Royal College of GPs (RCGP) indicated that GP workload in the UK increased by approximately 16% between 2007 and 2014. With a growing population and an increasing number of patients suffering from complex chronic conditions, it was projected that GP workload and complexity would further intensify (College of General Practitioners, 2018.). As a solution, the UK NHS proposed 10 High Impact Actions, a set of 10 methods aimed at reducing GP workload while enabling efficient use of their capabilities
+
+9 -
+(RCGP, 2018). The sixth method presented was social prescribing, aiming to reduce GPs' actual workload by referring patients needing non-medical rather than medical treatment to community organizations. Approximately 20% of patients visiting primary care institutions in the UK do so primarily for non-medical reasons, such as social issues (Husk et al., 2019). Reducing these visits alone can enhance GP work efficiency (National Academy for Social Prescribing, 2021.).
+According to statistical data, over 9 million people, equivalent to 15% of the UK population, feel lonely. Among elderly aged 75 and over, more than half live alone, and a significant portion of them reportedly spend a week without any social interaction (Senior Maeil, 2019). Loneliness is not confined to vulnerable groups like the disabled or elderly but affects all age groups, including younger generations, emerging as a problem requiring resolution in UK society. Recognizing loneliness as a problem to be addressed collectively by the nation, the UK government established a loneliness response department in 2018 and appointed a Minister for Loneliness to actively respond (Seoul Institute, 2020.). Furthermore, the UK government announced a policy to apply 'social prescribing' to the national healthcare system by 2023 to lower the loneliness felt by citizens (Donga News, 2021). The policy dictates that if a GP determines a patient needs 'social prescribing' rather than 'medical treatment,' they refer the patient through a 'Link Worker' to local activities, thereby reducing social loneliness.
+
+10 -
+2.3. Intervention of Social Prescribing
+
+2.3.1. United Kingdom
+Social prescribing has been operational within the NHS in the UK since the 1990s. The 2006 white paper 'Our health our care our say' published by the Department of Health actively emphasized the introduction of a social prescribing system for people requiring long-term treatment. The NHS appointed national clinical experts for social prescribing activities and engaged in various promotional activities. Currently, many regions in the UK are implementing or considering social prescribing programs. Furthermore, to help people suffering from loneliness, the biggest challenge in public health, the NHS appointed Tracey Crouch as the first Minister for Loneliness in 2018, promoting a cross-ministerial loneliness reduction strategy. Social prescribing is included as a key strategy within this loneliness plan. Through these policies and activities, the UK government anticipates solving citizens' mental health problems while simultaneously reducing cultural and artistic inequalities and healthcare costs (Kang Mi-hwa et al., 2021).
+Social prescribing is part of the Universalised Care Model (UCM), provided as a personalized care service for the entire population. Since July 2018, the UK NHS has been providing social prescribing services based on the comprehensive personalized care service model, guiding how primary care networks offer personalized care services to individuals within their respective health and welfare systems (Kang Mi-hwa et al., 2021; Nam Eun-woo, 2020).
+
+11 -
+2.3.2. Canada
+Canada's social prescribing was first implemented in 11 Community Health Centres (CHCs) in the province of Ontario. As of 2016, 16.4% (2.3 million people) of Canada's total population were elderly aged 65 and over, entering an aging society. With the elderly population projected to increase to 25% by 2041, social problems related to aging are emerging. Additionally, the top 5% of healthcare service users experience social isolation and loneliness, and these individuals account for 50% of total healthcare costs, highlighting the need to resolve isolation and loneliness by strengthening community belonging. Particularly in Ontario, Canada, a place where diverse races and cultures coexist, various health and social inequality issues arise. To address these, the UK's social prescribing was implemented on a trial basis (Alliance for Healthier Communities, 2019).
+The social prescribing project in Ontario, Canada, named 'Rx-Community-Social-Prescribing-Ontario,' ran from September 2018 to December 2019. The target population included vulnerable groups residing in Ontario, such as the elderly, individuals with mental illness, sexual minorities, homeless people, and immigrants. Similar to the UK's social prescribing, the project combined clinical intervention with non-clinical intervention by linking community resources through link workers after clinical prescription from primary care institutions. In Ontario, tailored social prescribing pilot projects were conducted according to regional demands and capacities. During the project period, approximately 3,300 social prescriptions were issued to 1,100 participants.
+The goal of social prescribing implemented in Ontario was to provide integrated health and welfare services centered around primary care services for vulnerable community groups. Key personnel included the primary care team (medical professionals, dietitians, physical therapists, etc.), Link Workers, and System
+
+12 -
+Navigators. Participants visiting the CHC received prescriptions from GPs, then received support for necessary community resources (medical, housing, etc.) from Link Workers or System Navigators, or were linked to social services (community programs) for management.
+Key results identified through participant surveys in Ontario, Canada, were as follows: First, participants' mental and emotional health improved, sense of belonging and social connection were strengthened, thereby alleviating loneliness. Second, healthcare providers confirmed a reduction in participants' return visits to medical institutions and acknowledged the usefulness of social prescribing. Third, social prescribing enabled deeper integration of medical care with social support networks among relevant professional organizations (Nam Hae-kwon et al., 2020).
+
+2.3.3. Korea
+In Korea, unlike the UK, there is currently no government-led social prescribing project. A university in Korea, through a research foundation support project, has been conducting a social prescribing pilot project targeting elderly individuals in a specific rural area for three years. This project targets rural elderly and reports high satisfaction among participating seniors, but its scale is small and it is not operating under an official government system. Elderly participants in social prescribing reported positive effects such as reduced depression and resolved loneliness (Kang Mi-hwa et al., 2021).
+Among domestic prior papers on social prescribing, two related to the intervention effects reported the following key results: According to the effectiveness evaluation of the 2019 social prescribing pilot project, 14 elderly participants engaged in the Music Storytelling program, a social prescribing intervention, for 4 weeks. As a result, their average depression score significantly decreased from 12.38 points to
+
+13 -
+8.30 points. Post-intervention interviews revealed effects such as 'enjoyment of the Music Storytelling program,' 'improved self-esteem,' 'gaining vitality through intergenerational exchange,' and 'increased social capital' (Song Geu-reum et al., 2019). Regarding the 2020 social prescribing pilot project, 10 elderly individuals participated for 10 weeks in intervention programs including Music Storytelling, gardening activities, and self-help groups. Through this, reduced depression and loneliness, improved self-esteem, and expanded social activities were reported (J. E. Kim et al., 2021a).
+
+2.4. Effects of Social Prescribing
+
+According to the UK NHS, social prescribing can positively impact physical and mental health, and potentially reduce GP workload and national healthcare costs (NHS, 2021.).
+Julia et al.'s study reported significant improvements in mental well-being among 63 participants in a social prescribing project conducted in the Luton area of East England (Pescheny et al., 2021). Grant et al.'s study found significant improvements in anxiety and emotional feelings among 160 participants in social prescribing, but no significant improvements were found in subjective health level, depression, or perceived social support (Grant et al., 2000). Another UK prior study using a narrative inquiry approach stated that social prescribing could lead to improved self-confidence along with psychosocial and occupational benefits for participants (Stickley & Hui, 2012). A systematic review that systematically screened 7,676 documents and finally reviewed 16 concluded that social prescribing resulted in positive adjustments in
+
+14 -
+physical indicators (reduction in blood pressure, weight, cholesterol, and blood sugar levels), health-related behavior indicators (increase in physical activity, decrease in alcohol consumption, prescription drugs, unhealthy diet), mental health indicators (increase in self-reliance, self-esteem, confidence), social interaction indicators (decrease in isolation, loneliness), daily living function indicators (improvement in cognitive function, desire for work, return to work after illness or accident) (Pescheny et al., 2018). According to a social prescribing study conducted domestically, 10 participants experienced positive effects in reducing depression and loneliness, with significant effects also observed in improving self-esteem and expanding social activities (Kim et al., 2021a).
+A report published by the University of Westminster in the UK stated that social prescribing reduced GP workload by an average of 28% compared to usual, and the number of Accident and Emergency visits decreased by an average of 24%. It also reported a significant reduction in secondary care service utilization (Polley et al., 2017). NASP announced similar results, reporting reduced isolation among chronic disease patients connected with social prescribers in some UK regions, with hospital utilization decreasing by 47% and emergency room visits by 38%. According to a survey by the UK Royal College of General Practitioners, social prescribing could help reduce GP workload by 59% and enables provision of appropriate prescriptions considering patients' diverse social environmental factors (RCGP, 2018). A social prescribing report supported by Leicestershire CCG and Wiltshire County Council, implemented by the charity Artlift, showed that after prescribing arts such as music, painting, theater, literature, and dance to patients, GP visits decreased by 37% and hospital admissions by 27%. It also reported a social return on investment of £4 to £11 for every £1 invested in art prescriptions (Nam Hae-kwon et al., 2020).
+While many studies view social prescribing positively,
+
+15 -
+social prescribing research generally faces challenges such as small sample sizes, lack of control groups, and convenience sampling, making it difficult to ascertain the clinical significance of observed results. Additionally, most social prescribing studies are short-term, with research conducted over 6 months or longer being almost non-existent (Bickerdike et al., 2016 ; Husk et al., 2019). Therefore, continuous systematic evidence-based research is needed to verify the effects of social prescribing.
+
+3. Digital Platform
+
+3.1 Definition of Digital Platform
+
+According to Kim So-young's research, a platform is used to mean "an internet service, mainly provided by IT companies, where value is created only when individuals or companies participate," or "a space where users meet and interact" (Kim So-young, 2021). According to Kim Ji-yeon, a platform is "a common structure needed to perform a certain task, a term referring to an environment where various applications can run, like a computer operating system," and "recently, individual applications can also grow into platforms, so Facebook, SNS are all considered independent platforms" (Joo Min-jae, 2014).
+The German Work 4.0 White Paper classified digital platforms into 'social communication platforms,' 'digital commerce platforms,' 'intermediary platforms,' and 'crowdworking platforms.' First, 'social communication platforms,' like Facebook and Twitter, enable interaction, information exchange, etc., among people. 'Digital commerce platforms,' such as eBay and MyHammer, are websites connecting various
+
+16 -
+technicians with consumers, where exchange and commerce occur. 'Intermediary platforms' enable information exchange among product providers, but also include intermediary services where the platform provider sets certain rules to adjust product prices, etc. Lastly, 'crowdworking platforms,' exemplified by Upwork and Amazon, are intermediary platforms connecting IT-based workers with each other (Arbeiten, 2017.).
+
+3.2 Usage Cases of Digital Platform (Targeting Elderly)
+
+Lee Min-ja et al.'s research analyzed the effects of video calls with family and acquaintances on facility life satisfaction, ego integrity, and depression among elderly residents in nursing facilities where visits were prohibited due to COVID-19. Video calls were conducted for elderly residents over two months from May to July 2020, and pre-post scores were compared using the Wilcoxon rank-sum test. The study confirmed that video calls were effective in improving facility life satisfaction and ego integrity, and reducing depression among nursing facility residents (Lee & Byun, 2021).
+Hong Ji-young et al.'s research implemented a remote exercise program for the elderly via video conferencing (Skype) and examined the effects of the 12-week intervention program on participants' body composition and function. Pre-post scores were compared using repeated measures two-way ANOVA. The results showed positive effects on body fat, upper limb muscle mass, SMI, and arm curl performance in elderly women with sarcopenic obesity (Hong et al., 2016).
+Fokkema et al.'s study evaluated the effectiveness of an intervention program utilizing email for elderly individuals with chronic diseases and physical disabilities. Using a pre-post
+
+17 -
+control group design model, data were collected from 15 elderly individuals through surveys conducted three times: before intervention, after intervention, and 2 years later. The results showed that while loneliness decreased over time in both experimental and control groups, the change in loneliness was significantly greater in the experimental group compared to the control group (Fokkema & Knipscheer, 2007).
+Tsai et al.'s study aimed to identify the effects of a smartphone-based video conferencing program on loneliness, depression, and quality of life among nursing home residents. Using a quasi-experimental design, participants interacted with family via video conference once a week for 6 months. Data were collected at four time points (1, 3, 6 months post-intervention) from 32 experimental group participants and 30 control group participants. The results indicated that the intervention program effectively improved loneliness, physical health, vitality, and pain in the experimental group, but showed no significant improvement in depressive symptoms (Tsai et al., 2020).
+Siniscarco et al.'s study aimed to determine the effects of an intervention program utilizing video conferencing for elderly residents admitted to long-term care facilities. Over 2 months, 8 participants communicated with family or friends via video conference (Skype) at least once a week. Pre-post test results revealed no significant change in emotional well-being. However, positive changes were observed in perceived social support (Siniscarco et al., 2017a).
+
+18 -
+4. Theoretical Review of Effectiveness Evaluation
+
+4.1. Experimental Design
+
+Experimental design is an operational plan undertaken to confirm theoretical content or find causes for results. In experimental design, the investigator must be able to manipulate at least one independent variable. Manipulation of experimental variables means the researcher arbitrarily adjusts the intensity of the independent variable, thereby enabling the elucidation of causal relationships through the design. Conditions required for experimental design include having at least one independent variable or factor subject to experimentation, and having participants for comparative analysis between the group undergoing experimentation based on this factor and the group not undergoing experimentation.
+There are two main methods in experimental design: true experimental design and quasi-experimental design. In some cases, pre-experimental research designs may be necessary. However, generally, experimental research refers to true experimental research. The difference is that the researcher does not merely observe the experimental treatment but directly participates in the experiment (Han Sung-hyun & Shin Dong-cheon, 1996).
+
+4.1.1. True Experimental Design
+True experimental design aims to elucidate causal relationships by selecting only causal variables relevant to the research objective from social phenomena and manipulating experimental variables under strict control of extraneous variables. The purposes of using true experimental design are primarily to verify the pure effects of independent variables and causal relationships between variables; second, to test and modify hypotheses and derive new ones; and third, to verify the predictive validity of theories.
+
+19 -
+Characteristics of true experiments include, first, 'manipulation,' where the researcher administers some treatment to the research group. Second, 'control,' where the researcher uses one or more control groups to compare experimental results. Finally, 'randomization,' where the researcher assigns participants to experimental and control groups probabilistically.
+Advantages of true experimental design include the possibility of thorough control of extraneous variables and randomization of subjects (random assignment to experimental and control groups). Also, manipulation of one or more independent variables is possible, along with clear operationalization of variables and precise variation of their intensity. Experimental results have high reproducibility, enabling clear verification of causal relationships.
+However, true experimental design typically involves small sample sizes and has high artificiality as a disadvantage. Ethical issues may preclude experimentation in some cases, and setting up experimental facilities can be costly. Furthermore, the intensity of independent variables may not exert as strong an effect as in the real world (Kim Jong-cheon, 1999).
+
+4.1.2. Quasi-Experimental Design
+Quasi-experimental design allows control over measurement timing and subjects but cannot control the assignment of subjects to experimental treatments or the timing of treatments, making it difficult to assume homogeneity between control and experimental groups. This design is primarily used in real-world situations where randomization of experimental subjects and treatment timing is impossible, aiming to verify the effects of experimental variables while controlling extraneous variables as much as possible.
+Advantages of quasi-experimental design include, first, that the intensity of independent variables manifests strongly as it occurs in real situations. It can be used when very complex social factors are at play and is applicable for verifying theories or solving practical problems.
+
+20 -
+It also offers flexibility and applicability to various issues.
+However, difficulties in randomizing subjects and operationalizing independent variables in the field increase the possibility of independent variable effects being contaminated by extraneous variables. Field experiments are often impossible, and precision is lower compared to true experimental designs (Sung Tae-je, 2020).
+Quasi-experimental designs can be classified based on experimental subject composition methods and measurement timing into non-equivalent control group pretest-posttest design, non-equivalent control group posttest-only design, cohort comparison design, single-group comparison design, etc. Quasi-experimental research lacks one or more of the three characteristics of true experimental research: manipulation, control, and randomization. However, manipulation of the independent variable must be included even in quasi-experimental designs. Compared to experimental designs, quasi-experimental designs are considered weaker in inferring cause-and-effect relationships (Yoo Seung-heum, 2005).
+
+4.1.3. Ex-Post Facto Design
+Ex-post facto research design is used to verify relationships between variables without manipulating the experimental variable when manipulation is impossible or the experimental variable has already been applied beforehand. That is, it is a design method for retrospectively tracing and identifying the cause of an already occurred result when the result has already happened, or when control of the experimental variable is impossible or inappropriate (National Council of University Health Education, 1999).
+
+21 -
+4.2. Non-experimental Design
+
+This is a research design where the independent variable is not manipulated by the researcher but is either already exposed or cannot be artificially controlled. The relationship between independent and dependent variables is identified retrospectively. It cannot establish causality, only correlation.
+Non-experimental study differs from experimental study, where the effect of manipulating an independent variable on a dependent variable is measured, in that the independent variable is not manipulated. Quantitative non-experimental research includes various forms such as survey research, observational research, evaluation research, etc. These can be explained distinguished by survey timing as cross-sectional studies, longitudinal studies, or comparative studies (National Council of University Health Education, 1999).
+
+22 -
+III. Research Methods (Note: Renamed from Research Design for clarity)
+
+1. Research Design
+
+This study was conducted to investigate the changes in depression, cognitive function, perceived social support, life satisfaction, BMI, and blood pressure of research participants due to the intervention program, a social prescribing pilot project. It employed a Non-equivalent Pretest-Posttest control designi to examine the treatment effects on the experimental group receiving the social prescribing program compared to the control group not receiving it <Table 1>. After a pre-survey, participants meeting certain criteria (see p.18 participant selection criteria) were selected as final participants. Following the intervention program, post-evaluations were conducted for both the experimental and control groups <Figure 1>.
+This study took place over a total of 10 weeks from April 23 to June 25, 2021. Participant recruitment and pre-evaluation were conducted in the first week. The intervention program ran for 8 weeks from the 2nd to the 9th week, and participant post-evaluation was conducted in the final 10th week <Figure 2>.
+
+i A quasi-experimental design where the two groups (experimental and control) are not randomly assigned. Pre-surveys are used to explore and control for differences not only in the dependent variable but also in extraneous variables that might influence it (Kim Seo-young, 2007).
+23 -
+(Table 1. Research Design Model)
+
+O1: Measurement of socio-demographic characteristics, depression, cognitive function, BMI, blood pressure, perceived social support, life satisfaction in the experimental group.
+O2: Measurement of depression, cognitive function, BMI, blood pressure, perceived social support, life satisfaction in the experimental group.
+O3: Measurement of socio-demographic characteristics, depression, cognitive function, BMI, blood pressure, perceived social support, life satisfaction in the control group.
+O4: Measurement of depression, cognitive function, BMI, blood pressure, perceived social support, life satisfaction in the control group.
+
+(Figure 1. Research Flowchart - Assumed to be provided)
+
+24 -
+(Figure 2. Research Period - Assumed to be provided)
+
+25 -
+2. Research Area
+
+The research areas were Heungeup-myeon and Munmak-eup in Wonju-si, Gangwon-do. The specific background for selecting these areas is as follows:
+First, Gangwon-do has a higher aging rate compared to other provinces and metropolitan cities (Aging Population Ratio (Province/City/County/District), 2021). As of August 2021, Jeollanam-do had the highest aging rate nationwide at 24.0%, followed by Gyeongsangbuk-do (22.3%), Jeollabuk-do (21.9%), and Gangwon-do (21.3%).
+Second, the aging rate is high in these specific areas, with Heungeup-myeon at 21.32% and Munmak-eup at 19.47%. Heungeup-myeon has already entered a super-aged society (Ministry of the Interior and Safety, 2021).
+Third, as of August 2021, Wonju-si had the highest number of confirmed COVID-19 cases in Gangwon-do (1,126), followed by Gangneung (980) and Chuncheon (707) (Gangwon Provincial Office, 2021).
+
+(Figure 3. Research Area (Heungeup-myeon, Munmak-eup, Wonju-si, Gangwon-do) - Assumed to be provided)
+
+26 -
+3. Selection of Research Participants
+
+3.1. Participant Selection Criteria
+
+The study subjects were elderly individuals aged 65 and over residing in Heungeup-myeon and Munmak-eup, Wonju-si, Gangwon-do. Detailed participant selection criteria were as follows:
+First, elderly individuals recommended by local social workers as having no issues participating in the pilot project.
+Second, elderly individuals capable of routine communication and without hearing or visual impairments.
+Third, elderly individuals not identified with severe depression based on the Geriatric Depression Scale-Korean version (GDS-K) score being 22 or lower during the pre-survey.
+
+3.2. Number of Participants
+
+A total of 35 participants were recruited through the pre-survey. Twenty elderly individuals willing to participate in the intervention program were assigned to the experimental group, and 15 unwilling to participate were assigned to the control group. However, during the study period, one participant from the control group was hospitalized, resulting in 20 participants in the experimental group and 14 in the control group (total 34) being used for the final analysis.
+
+27 -
+4. Data Collection Method
+
+Data for this study were collected through 1:1 surveys and face-to-face examinations at a primary care institution (clinic). The questionnaire comprised questions to determine participants' socio-demographic characteristics, depression, cognitive function, perceived social support, and elderly life satisfaction. Surveys were conducted twice, before and after the intervention program. Two researchers with health science backgrounds conducted the surveys through face-to-face visits to participants' homes using a 1:1 interview method. The average survey time was approximately 40 minutes per elderly participant. For questions participants did not understand, the interviewer provided examples to aid comprehension and sought accurate responses. Additionally, to assess baseline health status (height, weight, blood pressure) before and after the program, two face-to-face examinations were conducted at a local primary care institution. Upon arrival at the clinic, participants rested sufficiently for about 10 minutes before being examined by a nurse.
+Pre-evaluation was conducted on April 23, one week before the intervention program began. Post-evaluation was conducted on June 25, one week after the intervention program concluded.
+
+28 -
+5. Measurement Tools
+
+5.1. Socio-demographic Indicators
+
+Participants' socio-demographic indicators included sex (male, female), age, literacy (none, yes), religion (Christian, Catholic, Buddhist, Atheist), living alone status (alone, not alone), and subjective health level (very bad, bad, normal, good, very good).
+
+5.2. Clinical Indicators
+
+5.2.1. Depression
+To measure participants' depression levels, the Geriatric Depression Scale-Korean Version (GDS-K) was used. The GDS-K, developed by Jung In-gwa et al. by adapting the Geriatric Depression Scale developed by Yesavage (1983) for Korean elderly, consists of 30 items with a binary 'yes'/'no' response format (Jung et al., 1994). Higher scores indicate higher depression levels, with a score range of 0-30. The reliability (Cronbach’s α) of GDS-K at development was .84; in this study, it was .87.
+
+5.2.2. Mini-Mental State Examination-Korean version (MMSE-K)
+To assess participants' cognitive function, the Korean version of the Mini-Mental State Examination was administered. This scale, adapted and supplemented by Park Jong-han and Kwon Yong-cheol (1989) from the Mini-Mental State Examination (MMSE) developed by Folstein et al. in 1975 for Korean elderly (Park Jong-han, 1989), allows easy evaluation of a participant's intellectual state within a short time (5-10 minutes).
+
+29 -
+Items cover orientation to time (5 points), orientation to place (5 points), memory registration (3 points), attention and calculation (5 points), memory recall (3 points), language (7 points), and comprehension/judgment (2 points). The score range is 0-30. Reliability (Cronbach’s α) in this study was .86.
+
+5.2.3. Blood Pressure
+Blood pressure refers to the pressure exerted by blood on the vessel walls as it flows through them and is used for diagnosing hypertension. According to the 7th Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC7) criteria, normal blood pressure is defined as systolic BP < 120 mmHg AND diastolic BP < 80 mmHg; prehypertension as systolic BP 120-139 mmHg OR diastolic BP 80-89 mmHg; and hypertension as systolic BP ≥ 140 mmHg OR diastolic BP ≥ 90 mmHg (AV et al., 2003).
+
+5.2.4. Body Mass Index (BMI)
+BMI, one method for measuring obesity, determines ideal weight relative to height and is most commonly used to assess an individual's physical characteristics, nutritional status, etc. (Hill et al., 2003). In this study, BMI was calculated using height (m²) and weight (kg) measured at a local primary care institution (clinic), using the formula weight(kg) / height(m²). According to WHO recommendations for Asian populations, BMI < 18.5 is underweight, 18.5-22.9 is normal, 23-24.9 is overweight, and ≥ 25 is obese (Lancet, 2004).
+
+30 -
+5.3. Social Indicators
+
+5.3.1. Perceived Social Support
+To measure participants' perceived social support, the Multidimensional Scale of Perceived Social Support developed by Gregory et al. was used (Zimet et al., 2010). The scale consists of 12 items designed to measure perceived social support from three sources: family, friends, and significant others. Negative items were reverse-coded, with higher scores indicating higher perceived social support. In this study, items were modified and used to measure perceived support from friends and significant others, excluding family. The score range is 8-40. Reliability (Cronbach’s α) at the time of the survey was .89.
+
+5.3.2. Life Satisfaction
+The life satisfaction scale selected for this study was based on the MUNSH scale created by Stones and Kozma (1980), incorporating concepts related to elderly mental health such as life satisfaction, morale, and happiness. It was adapted by Yoon Jin (1982) to measure the life satisfaction level of Korean elderly. It consists of 20 items, with 4 positive emotion items, 4 negative emotion items, 6 positive daily experience items, and 6 negative daily experience items. Each item uses a 0-2 point Likert scale, with negative items reverse-scored. The score range is 0-40, with higher scores indicating higher life satisfaction (Yoon Jin, 1982). The reliability (Cronbach’s α) when Yoon Jin (1982) developed the scale was .85; in this study, it was .85.
+
+31 -
+6. Intervention Program
+
+6.1. Intervention Tool
+
+While conceptual definitions of social prescribing vary, it is generally defined as a means by which doctors and other healthcare professionals link patients to non-medical service providers in the community to improve their health and well-being. The social prescribing program used in this pilot project was the Music Storytelling program, conducted in compliance with social distancing guidelines considering the COVID-19 situation.
+Music Storytelling is a process that uses music therapy techniques to discover inner stories and lead towards a better life, aiming to restore self-esteem and foster hope and vision for life through self-reflection. The content of the Music Storytelling program is detailed in <Table 2>, consisting of activities designed to strengthen 7 domains (cognitive, sensory, language, physical, self, mind-body, intimacy).
+The Music Storytelling program received a service mark registration from the Korean Intellectual Property Office in 2013 (Registration No. 41-0270261).
+
+6.2. Intervention Method
+
+This intervention program was conducted by two Music Storytelling experts via the digital platform Zoom, allowing for real-time interaction and immediate feedback with participants. To prevent COVID-19 infection, participants were divided into several small groups of fewer than 5 people. Each group included one student volunteer. A total of 13 student volunteers were recruited from students attending three universities located in the region.
+
+32 -
+They received pre-training about the program once a week for three weeks prior to the program start, ensuring sufficient understanding of the utilized videos before participating. The program ran once a week for a total of 8 sessions from April 30, 2021, to June 18, 2021. Considering the number of participants, it was conducted simultaneously via video conference at multiple locations. Each session lasted 60 minutes.
+
+6.3. Intervention Location
+
+Program locations included community-linked institutions near participants' residences in Heungeup-myeon, such as a small library, senior centers (Gyeongro-dang), and village management offices.
+
+6.4. COVID-19 Prevention Measures
+
+To ensure safety from COVID-19 infection, thorough disinfection was carried out before each session, including all items used by participants like instruments, desks, and chairs. Additionally, temperatures of all participants were measured and recorded before participation, and wearing masks and disposable gloves was mandatory.
+
+33 -
+(Table 2. Social Prescribing Intervention Program - Music Storytelling Program - Assumed to be provided)
+
+34 -
+(Continuation of Table 2)
+
+35 -
+7. Data Analysis
+
+Data analysis for this study used the SPSS Statistics 25.0 version statistical package. Non-parametric statistical methods were used to compare pre-post measurement values. Blood pressure and BMI measurements could only be conducted for 13 participants in the experimental group among the total 34 participants and were not performed for the control group. Specific analysis methods were as follows:
+First, to test for homogeneity between the experimental and control groups, the independent samples Mann-Whitney U Test and Fisher's exact Test were conducted on socio-demographic indicators, clinical indicators, and social indicator variables.
+Second, to determine if there were significant differences in pre-post scores for clinical and social indicator variables within the experimental group after the intervention program, the paired samples Wilcoxon Signed Ranks Test was performed.
+Third, to determine if there were significant differences in pre-post scores for clinical and social indicator variables within the control group after the intervention program, the paired samples Wilcoxon Signed Ranks Test was performed.
+Fourth, to ascertain if there were significant differences in the pre-post score changes between the experimental and control groups for clinical and social indicator variables, the difference between post-test and pre-test scores for each group was calculated, followed by an independent samples Mann-Whitney U Test.
+
+36 -
+8. Ethical Considerations
+
+Before conducting the survey for research data collection, researchers explained the purpose of data collection and usage to the participants, promised to protect participants' anonymity in all research data utilization, and obtained consent for data use. This study received approval from the Yonsei University Mirae Campus Institutional Review Board (Management No: 1041849-202109-SB-137-03) (Appendix 1).
+
+37 -
+IV. Research Results
+
+1. Characteristics of Participants
+
+Analysis of the socio-demographic characteristics of the study participants revealed an average age of 79.97 years (SD=6.60). Among the total 34 participants, 8 (23.5%) were male and 26 (76.5%) were female. 31 participants (91.2%) were literate, while 3 (8.8%) were not. The most common religion was Catholicism (15 participants, 44.1%), followed by Protestantism (10, 29.4%), Buddhism (6, 17.6%), and Atheism (3, 8.8%). 22 participants (64.7%) reported living alone without cohabitants, while the remaining 12 (35.3%) lived with cohabitants. Regarding subjective health level, 'bad' was the most frequent response (15 participants, 44.1%), followed by 'good' (8, 23.5%), 'normal' (5, 14.7%), 'very bad' (4, 11.8%), and 'very good' (2, 5.9%).
+Analyzing the clinical indicator variables of the research participants, the average depression score (out of 30) was 15.18 (SD=6.60). The average cognitive function score (out of 30) was 23.44 (SD=4.13). The average systolic blood pressure was 140.35 (SD=18.71), and the average diastolic blood pressure was 77.12 (SD=10.45). Finally, the average BMI was 24.11 (SD=3.37) <Table 3>.
+Analyzing the social indicator variables of the research participants, the average perceived social support score (out of 40) was 22.27 (SD=9.06), and the average life satisfaction score (out of 40) was 19.27 (SD=9.27) <Table 3>.
+
+38 -
+(Table 3. Participant Characteristics - Assumed to be provided)
+
+39 -
+2. Homogeneity Test Results between Experimental and Control Groups
+
+To assess the homogeneity between the experimental and control groups regarding socio-demographic indicators and clinical/social indicator variables, the independent samples Mann-Whitney U Test and Fisher's Exact test were performed before the social prescribing pilot project implementation <Table 4>.
+The average age was 79.60 years (SD=6.98) for the experimental group and 80.50 years (SD=6.24) for the control group, with no statistically significant difference (U=127.50, p=.666). Both groups had a higher proportion of females (Experimental: 85.0% female, 15.0% male; Control: 64.3% female, 35.7% male), with no significant difference (Z=1.964, p=.228). Literacy rates were high in both groups (Experimental: 95.0% literate; Control: 85.7% literate), showing no statistical difference (Z=.883, p=.555). More than half of the participants in both groups had a religion, and homogeneity was confirmed between groups (Z= .788, p=.455). Specifically, religious affiliations were: Experimental - Christian 5 (25.0%), Catholic 1 (5.0%), Buddhist 3 (15.0%). Atheist 11 (55.0%); Control - Christian 5 (35.7%), Catholic 2 (14.3%), Buddhist 3 (21.4%), Atheist 4 (28.6%). Regarding living arrangements, 11 (55.0%) in the experimental group lived alone, while 9 (45.0%) lived with others. In the control group, 11 (78.6%) lived alone, and 3 (21.4%) lived with others; homogeneity was confirmed (Z=2.004, p=.275). For subjective health level, the most common response in both groups was 'bad' (Experimental 35.0%, Control 57.1%), and the least common was 'very good' (Experimental 5.0%, Control 7.1%), with no statistically significant difference between groups (Z=2.511, p=.747).
+
+40 -
+Baseline depression scores were higher in the experimental group (Mean=17.00, SD=6.11) than the control group (Mean=12.57, SD=6.61), but the difference was not statistically significant (U=91.00, p=.090). Similarly, cognitive function scores showed no significant difference between groups (Experimental Mean=22.90, SD=3.31; Control Mean=24.21, SD=5.12; U=97.00, p=.138). Both systolic and diastolic blood pressure were higher in the control group than the experimental group, but the differences were not significant (p=.666, p=.061, respectively). BMI values were also higher in the control group (Mean=24.68, SD=4.36) than the experimental group (Mean=23.71, SD=2.53), but this difference was not statistically significant (U=127.00, p=.666).
+Perceived social support scores showed no significant difference between groups (Experimental Mean=22.45, SD=9.21; Control Mean=22.00, SD=9.17; U=133.50, p=.823). Life satisfaction scores were higher in the control group (Mean=21.14, SD=9.25) than the experimental group (Mean=17.95, SD=9.30), but the difference was not significant (U=113.50, p=.359). Consequently, homogeneity between the experimental and control groups was confirmed for all socio-demographic, clinical, and social indicator variables.
+
+41 -
+(Table 4. Homogeneity Test of Socio-demographic, Clinical, and Social Indicator Variables between Experimental and Control Groups - Assumed to be provided)
+
+42 -
+(Continuation of Table 4)
+
+43 -
+3. Evaluation Results of Intervention Effects of Social Prescribing Pilot Project
+
+3.1 Results of Pre-Post Score Comparison within Experimental Group
+
+The results comparing pre-post scores within the experimental group for clinical and social indicator variables after the pilot project are shown in <Table 5>. First, regarding depression scores, there was a significant decrease from a pre-test average of 17.00 (SD=6.11) to a post-test average of 13.35 (SD=6.34) (Z=-2.43, p=.015). Cognitive function increased from a pre-test average of 22.90 (SD=3.31) to a post-test average of 23.65 (SD=4.18), an increase of .75 points, but this change was not statistically significant (Z=-1.31, p=.189). Regarding blood pressure readings, systolic BP significantly decreased from a pre-test average of 137.14 (SD=13.93) to a post-test average of 122.54 (SD=16.22) (Z=-3.06, p=.002). However, diastolic BP decreased from a pre-test average of 73.86 (SD=7.44) to a post-test average of 67.77 (SD=8.76), but this decrease was not statistically significant (Z=-1.77, p=.077). BMI values also decreased post-test compared to pre-test, but not significantly (Z=-1.08, p=.279).
+Perceived social support scores significantly increased after the pilot project, from a pre-test average of 22.45 (SD=9.21) to a post-test average of 27.65 (SD=8.66) (Z=-2.82, p=.005). Life satisfaction scores also significantly increased from a pre-test average of 17.95 (SD=9.30) to a post-test average of 23.25 (SD=10.90) (Z=-2.60, p=.009).
+
+44 -
+(Table 5. Pre-Post Score Comparison Test within Experimental Group - Assumed to be provided)
+
+45 -
+3.2 Results of Pre-Post Score Comparison within Control Group
+
+The results comparing pre-post scores within the control group for clinical and social indicator variables after the pilot project period are shown in <Table 6>. Due to the spread of COVID-19 at the time of post-evaluation, unlike the experimental group, the control group could not undergo face-to-face examinations at the primary care institution.
+Regarding depression scores, the average decreased slightly by .21 points from 12.57 (SD=6.61) pre-test to 12.36 (SD=5.90) post-test, but the difference was not statistically significant (Z=-.05, p=.959). Cognitive function scores also showed no significant difference between pre-test and post-test averages (Z=-1.74, p=.083).
+Perceived social support scores decreased by 3.43 points from an average of 22.00 (SD=9.17) pre-test to 18.57 (SD=7.94) post-test, but this decrease was not statistically significant (Z=-1.58, p=.114). Finally, life satisfaction increased slightly by .36 points from an average of 21.14 (SD=9.25) pre-test to 21.50 (SD=8.10) post-test, but this increase was also not statistically significant (Z=-.19, p=.850).
+
+(Table 6. Pre-Post Score Comparison Test within Control Group - Assumed to be provided)
+
+46 -
+3.3 Results of Comparison of Pre-Post Score Changes between Experimental and Control Groups
+
+The results comparing the pre-post score changes between the experimental and control groups for socio-demographic, clinical, and social indicator variables after the social prescribing pilot project are presented in <Table 7>. First, depression scores showed an average decrease of -3.65 points (SD=5.76) in the experimental group versus -.21 points (SD=3.93) in the control group, indicating a statistically significant difference in score change between the two groups (Z=-2.09, p=.036) <Figure 4>. Cognitive function scores increased in both groups post-test compared to pre-test (Experimental: avg. +.75, SD=3.55; Control: avg. +1.07, SD=2.95), but the difference in change was not statistically significant (Z=-.23, p=.823) <Figure 5>.
+Regarding perceived social support, the experimental group participating in the social prescribing program showed a significantly greater increase in scores compared to the non-participating control group; notably, the control group's perceived social support scores actually decreased (Z=-2.94, p=.003) <Figure 6>. Life satisfaction increased by an average of 5.30 points (SD=7.49) in the experimental group versus .36 points (SD=6.08) in the control group, demonstrating a significant difference in life satisfaction score change between the groups (Z=-2.00, p=.047) <Figure 7>.
+
+(Table 7. Comparison Test of Pre-Post Score Changes between Experimental and Control Groups - Assumed to be provided)
+
+47 -
+(Figure 4. Depression Score Change in Experimental and Control Groups - Assumed to be provided)
+(Figure 5. Cognitive Function Score Change in Experimental and Control Groups - Assumed to be provided)
+(Figure 6. Perceived Social Support Score Change in Experimental and Control Groups - Assumed to be provided)
+(Figure 7. Life Satisfaction Score Change in Experimental and Control Groups - Assumed to be provided)
+
+48 -
+V. Discussion
+
+1. Discussion on Research Method
+
+This study employed a non-equivalent control group pretest-posttest design, a type of quasi-experimental design, to evaluate the intervention effects of a social prescribing pilot project utilizing a digital platform. A control group was selected from the same region where the experimental group resided, and pre-post survey data were collected from the same individuals in both groups. This approach aimed to control for potential confounding variables such as regional or individual characteristics as much as possible and verify the independent effectiveness of the social prescribing pilot project intervention.
+Data were collected through surveys and face-to-face examinations at a local primary care institution (clinic). Considering the participants were elderly aged 65 and over, investigators visited participants directly and conducted one-on-one surveys. For questions participants did not understand well, interviewers provided examples to aid comprehension and endeavored to obtain accurate responses. Additionally, face-to-face examinations were conducted at a local primary care institution to measure basic physical health status. This aimed to assess changes in participants' mental and physical health levels before and after the pilot project. This represents a distinction from previous effectiveness evaluation studies that predominantly focused on participants' mental and social aspects (Dayson & Bashir, 2014; Kimberlee, 2013; White & Salamon, 2010). Furthermore, the fact that participants joined the pilot project after medical institution involvement was confirmed indicates that this pilot project was conducted in a form similar to the UK's social prescribing model.
+To derive the results of this study, non-parametric tests were conducted after data collection. Unlike parametric tests, non-parametric tests allow for comparison and verification of population characteristics even if normality and homogeneity of variance assumptions are not met.
+
+49 -
+Non-parametric statistics typically use the signs or ranks of observations rather than the observed values themselves. While using ranks instead of raw data for statistical hypothesis testing might seem to involve information loss and reduced efficiency, it has been proven to be a considerably safe method with relatively little loss of efficiency (Kim Woo-chul, 2016).
+Parametric methods are generally preferred when there is solid evidence about the population distribution function. However, when assumptions like the population following a "normal distribution" cannot be made, non-parametric methods are safer. Considering that some data in this study did not satisfy normality and the number of participants assigned to the experimental and control groups was below 30, non-parametric tests were conducted. Prior research indicates difficulties in participant selection and pre-post evaluation due to dropouts in social prescribing studies (Bickerdike et al., 2016.; Husk et al., 2019). Particularly, participant recruitment was more challenging as this study was conducted during the COVID-19 period. Therefore, given that the collected data did not satisfy normality and the participant number was small, using non-parametric testing methods instead of parametric tests can be considered an appropriate analytical approach for this study.
+
+50 -
+2. Discussion on Research Results
+
+2.1 Effects of Social Prescribing Pilot Project Intervention
+
+This study investigated the effects of a social prescribing pilot project utilizing a digital platform on elderly participants' depression, cognitive function, blood pressure, BMI, perceived social support, and life satisfaction. First, compared to the non-participating control group, the experimental group participating in the pilot project showed statistically significant improvements in perceived social support and life satisfaction scores, and a significant decrease in depression scores. Reviews of social prescribing cases in the UK indicate that it helps promote the physical and mental health of the general public (Chatterjee et al., 2017), and similar results were found in studies targeting the elderly population (C et al., 2017; K et al., 2018). With depression reduction recognized as a primary goal of social prescribing (The King’s Fund, n.d.), this study consistently showed a decrease in participants' depression levels. Furthermore, aligning with previous research indicating a negative relationship between depression and perceived social support/life satisfaction (George et al., 1989; Kim, 2013), this study found that the social prescribing pilot project led to decreased depression and significantly increased perceived social support and life satisfaction. Notably, unlike other variables used, perceived social support showed opposite results for the control group compared to the experimental group. This is likely because COVID-19 induced unwanted social isolation among the elderly, negatively affecting their perceived social support. Research conducted in Alameda County, California, USA, found a strong correlation between perceived social support and lifespan, stating that social support is a crucial factor protecting the mental health of the elderly due to its close association with psychological protective factors like resilience (BERKMAN & SYME, 1979). Also, studies on elderly mental health related to COVID-19
+
+51 -
+indicate that the elderly experience unwanted social isolation, and minimizing the resulting mental distress requires connection with the community and social support utilizing digital platforms (Lee et al., 2020). In essence, since reduced perceived social support due to COVID-19 negatively impacts elderly health, social prescribing programs that protect their mental health can be considered effective solutions. Moreover, social prescribing projects connecting community resources via digital platforms are appropriate interventions for the COVID-19 era.
+Conversely, although the experimental group's cognitive function improved somewhat after the pilot project, the change was not statistically significant, nor was the difference significant compared to the control group. This finding contradicts studies on cognitive function in elderly participating in social activities (Fabrigoule et al., 1995; Laurin et al., 2001; Verghese et al., 2009). This might be because the 8-week duration was too short to improve participants' cognitive function significantly, suggesting this result needs consideration when promoting future social prescribing projects for dementia prevention. BMI values also showed a positive effect of slight reduction after the pilot project, but the difference was not statistically significant. This is likely because the social prescribing program used in this study focused more on music activities than physical activities, and participants' free outdoor activities were restricted due to COVID-19, making BMI reduction difficult. Additionally, participants' systolic blood pressure decreased. This result is consistent with Jeon's (2009) finding that heart rate decreased and blood pressure lowered after implementing music therapy for the elderly (Young et al., 2009). This suggests that the social prescribing program used in this pilot project, being music-based, promoted psychological stability among participants, thus influencing blood pressure reduction.
+
+52 -
+2.2 Appropriateness of Program Utilizing Digital Platform
+
+Amidst worsening social and health inequalities due to the COVID-19 pandemic (Douglas et al., 2020), social prescribing projects aimed at improving individual health and well-being are increasingly necessary (NHS, 2020). However, traditional social prescribing targeting large groups poses health risks to participants during the COVID-19 period and is practically impossible under government social distancing guidelines. Consequently, projects utilizing digital platforms are being developed and operated in various fields tailored to the pandemic situation (Razai et al., 2020), with evidence suggesting that digital platform-based approaches may be more effective than traditional face-to-face methods for promoting mental health (Lal & Adair, 2014; Ritika, 2020). Research on nursing home residents indicated that smartphone video conferencing programs helped improve participants' loneliness and pain, and other studies found that digital platform-based services enhanced the mental well-being of the elderly (Siniscarco et al., 2017; Tsai et al., 2020 - note inconsistency in original citation). Additionally, digital methods, alongside therapeutic means, can provide supplementary audiovisual materials, thereby increasing participant motivation and helping alleviate anxiety (Donaghy et al., 2019; Shaw et al., 2018). This study utilized appropriate audiovisual materials like related photos and videos in each session via the 'ZOOM' video conferencing program, and proceeded with real-time feedback between instructors and participants, indicating successful implementation of a digital platform-based approach. Furthermore, a study on the effectiveness of a face-to-face social prescribing pilot project for the elderly conducted during a similar COVID-19 period reported a decrease in depression scores (GDS-K) from 13.60 pre-test to 10.00 post-participation (Kim et al., 2021). This result is similar to the findings of the present study using the same scale (Pre: 17.00, Post: 13.35).
+
+53 -
+Considering that the magnitude of decrease was actually 0.05 points greater in our study, it can be inferred that this pilot project utilizing a digital platform was at least as effective as the traditional social prescribing pilot project.
+
+54 -
+2.3 Significance of Social Prescribing Pilot Project Utilizing Community Resources
+
+According to the UK NHS, community-based social prescribing promotes individuals' social contact, enabling them to escape social isolation and loneliness, ultimately contributing to personal health promotion (NHS, 2020.). The social prescribing pilot project conducted in this study also recruited participants through social workers at the local administrative welfare center, sufficiently utilized community institutions such as small libraries, senior centers (Gyeongro-dang), village management offices, and community welfare centers, and recruited nearby university student volunteers for the pilot project, demonstrating similarity in process to UK social prescribing. These social elements can be seen as improving the health of participants physically and mentally exhausted by COVID-19. Care services currently implemented in Korea, contrary to their objective, are often provided in a fragmented rather than integrated manner, making it difficult for participants to experience tangible benefits (Ministry of Health and Welfare, 2018). Furthermore, services are often provided based on assigned grades, indicating a lack of comprehensiveness (Civil Society Research Institute, 2020). Also, unlike urban areas where various community care initiatives are underway led by government and local authorities, rural areas relatively lack community care-related activities and research, and face shortages in personnel and resources for implementation (Song Geu-reum et al., 2019). Therefore, Korea needs to closely examine the UK's social prescribing system, where the community takes the lead in providing necessary services to participants in an integrated and comprehensive manner. Additionally, despite the national disaster situation caused by COVID-19, exploring the introduction of social prescribing programs utilizing digital platforms that can be implemented while maintaining social distancing is necessary.
+
+55 -
+3. Limitations of the Study
+
+The limitations of this study are as follows:
+First, selection bias might have occurred during participant selection. Due to difficulties in identifying participants caused by COVID-19, the experimental group consisted of individuals who consented to participate in the social prescribing pilot project, while the control group consisted of those who did not consent. That is, assignment to experimental and control groups was not random but based on participants' willingness to participate, which could lead to selection bias.
+Second, while social prescribing should ideally be initiated by medical professionals, this pilot project confirmed the need for social prescribing solely through social workers before implementation. Therefore, future research requires direct social prescribing through medical professionals to more accurately implement social prescribing and measure its effects.
+Third, due to the escalation of COVID-19 social distancing measures during the post-evaluation period, measurements of blood pressure, height, and weight for the control group could not be conducted. That is, for these specific measurement items, pre-post tests were conducted only on a single group (experimental) without using a control group, thus failing to control for extraneous variables compared to other measurement items. This may weaken the explanatory power attributing the pre-post differences solely to the experimental effect.
+Finally, the assessment of the impact of participating in the social prescribing pilot project on participants' mental, social, and physical health was limited to short-term evaluation, preventing conclusions about the sustainability of the intervention's effects. Therefore, future research should also verify the sustainability of elderly health improvements resulting from the intervention through follow-up observations.
+
+56 -
+VI. Conclusion and Suggestions
+
+1. Conclusion
+
+This study aimed to identify the effectiveness of an intervention through a community-based social prescribing pilot project utilizing a digital platform on participants' depression, cognitive function, blood pressure, BMI, perceived social support, and life satisfaction. The following results were obtained through this study.
+First, depression scores decreased significantly more in the experimental group compared to the control group after the intervention [Translator correction based on results/abstract]. Cognitive function improved after the intervention compared to before, but the change was not statistically significant.
+Second, comparing within the experimental group, only systolic blood pressure showed a statistically significant decrease, while diastolic blood pressure and BMI improved after the intervention compared to before, but the changes were not statistically significant.
+Third, perceived social support and life satisfaction improved significantly more in the experimental group compared to the control group after the intervention.
+This study holds significance in confirming that a community-based social prescribing pilot project intervention conducted in Heungeup-myeon and Munmak-eup, areas with high aging rates within Wonju-si, Gangwon-do, was effective in improving participants' physical indicators (depression, systolic blood pressure) and social indicators (perceived social support, life satisfaction).
+
+57 -
+2. Suggestions
+
+Based on the research findings, the following suggestions are proposed.
+First, this study confirmed the effectiveness of the social prescribing pilot project intervention conducted in Wonju-si, Gangwon-do, in reducing participants' depression and blood pressure, and enhancing perceived social support and life satisfaction. This suggests that community-based social prescribing interventions are effective for the physical, mental, and social health of the elderly. Particularly considering the study's timing during the COVID pandemic, social prescribing is judged to potentially have a positive impact on elderly mental health worsened by COVID-19 in the future. Therefore, to improve the physical, mental, and social health of the elderly, a vulnerable group during COVID-19, expanding the intervention model of this study to other regions with similar environments to promote participants' health is necessary.
+Second, further development of intervention programs utilizing digital platforms is needed. With group activities becoming difficult due to the spread of COVID-19, the problem of social isolation among the elderly is emerging. In response, this study utilized the digital platform approach to conduct the social prescribing pilot project while maintaining social distancing. This study confirmed that the digital platform approach can be implemented in compliance with government quarantine guidelines and is as effective as face-to-face group methods. Therefore, development of intervention programs utilizing digital platforms is necessary to solve social isolation problems caused by COVID-19. Particularly, elderly-related institutions such as senior welfare centers need to appropriately utilize this as part of elderly welfare and health programs.
+Finally, national consideration of introducing the social prescribing system is necessary for activating Korea's community care. To effectively respond to problems arising from the increasing elderly population, it is necessary to fundamentally improve their quality of life beyond just addressing disease treatment issues.
+
+58 -
+Social prescribing is a system that provides universal healthcare management to patients through organic connections between primary care and community institutions, enabling personalized care services for individuals. Therefore, exploring social prescribing as a new approach within Korea's community care policy is necessary, requiring policy-level review.

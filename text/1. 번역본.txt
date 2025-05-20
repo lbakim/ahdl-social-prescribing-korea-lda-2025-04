@@ -1,0 +1,205 @@
+Evaluation of the Effects of a Social Prescribing Program on Reducing Depression Among the Elderly in a Rural Area of Gangwon Province
+
+Authors: Geurum Song*, Hyeyeon Jo*,, Eun Woo Nam*,*
+
+Affiliations:
+*Healthy City Research Center, Institute of Health and Welfare, Yonsei University
+**Department of Health Administration, Graduate School of Yonsei University
+***Department of Health Administration, Yonsei University
+
+(Already provided in English)
+Abstract
+
+Title: Effects of a Social Prescribing Program on the Depressive Status of Elderly People in a Rural Area of Gangwon-do
+Objective: To evaluate the effect of a Music Storytelling program in improving participants’ depressive status, and social relationships.
+Methods: A total of 14 people aged 65 or older participated in the Music Storytelling Program at the Community Welfare Center in Heungeup-myeon, Wonju, Gangwon Province, during four weeks from August 14 to September 4, 2019. Data was collected through face-to-face interviews using the Geriatric Depression Scale (GDS-K) in addition to focus groups carried out after the intervention.
+Results: First, the Music Storytelling Program improved the depressive status among the participating elderly, with a reduction of the average depression score from 12.38 to 8.30 points (p=.008). Second, the elderly who participated in the music storytelling program were found to have significantly enjoyed the program, improved their self-esteem, experienced a sense of revitalization of youth through generational exchange, and an expansion of social relations.
+Conclusion: The music storytelling program had a positive effect on the participating elderly, by improving their self-esteem, boosting the vitality of their mentality, as well as allowing the expansion of their social relations. In addition, the social prescription program analyzed in this study can be seen as a community care model for improving the mental health of the elderly in other rural areas of the country.
+
+Key Words: Rural area, Elderly, Depression, Social Prescribing, Social Relationship
+
+Date Received (October 08, 2019), Date Reviewed (Revised) (November 04, 2019), Date Accepted (November 13, 2019)
+*Corresponding Author: Eun Woo Nam
+Address: #412 Changjo Hall, Yonsei University, 1 Yonseidae-gil, Wonju-si, Gangwon-do 26493, Tel: +82-33-760-2413, E-mail: ewnam@yonsei.ac.kr
+
+Korean Public Health Research Vol. 45, No. 4, pp. 77~87 (November 2019)
+
+I. Introduction
+
+1. Research Background
+
+In old age, individuals experience physical decline, social alienation, loss of roles, economic hardship due to lack of employment, and bereavement, leading to a greater sense of loss and resultant stress compared to other age groups, often culminating in depression (1). Reports from the United States indicate that 15% of community-dwelling elderly aged 65 and over suffer from depression. This prevalence rises to 20% among outpatients, 40% among hospitalized elderly, and 50% among nursing home residents (2).
+
+In South Korea, as of 2012, 12.9% of adults aged 19 and over experienced depressive feelings (defined as experiencing sadness or despair significant enough to interfere with daily life for two consecutive weeks or more in the past year). By age group, the rate was highest among those aged 70 and over (17.9%) and second highest among those in their 60s (15.1%). Furthermore, depression prevalence was higher among rural residents (16.5%) compared to urban residents (12.3%), and increased as household income level decreased (3). Significant sequelae associated with geriatric depression include pseudodementia and suicide (4).
+
+As of 2016, the suicide rate among South Korean elderly aged 65 and over was 58.6 per 100,000 people, three times the OECD average of 18.8 and the highest among OECD countries. The rate was particularly high among the older elderly, at 54.0 for those in their 70s and 78.1 for those aged 80 and over (5). Contributing factors to elderly suicide include economic difficulties, health problems, conflicts with family and acquaintances, and loneliness, in that order (6). Geriatric depression and suicide can be both causes and consequences of complex, intertwined problems, making it difficult to establish a simple causal relationship. This highlights the need for multidisciplinary efforts involving not only medical but also social approaches.
+
+In 2016, the UK's National Health Service (NHS) introduced 'Social Prescribing' to reduce the workload of General Practitioners (GPs) and alleviate feelings of depression and loneliness among the public. Subsequently, in 2018, the City of London also decided to implement social prescribing as a non-pharmacological intervention, recognizing the limitations of treating stress and depression arising from housing, financial, and social circumstances solely with medication (7). The social prescribing process involves community healthcare professionals identifying patients who could benefit based on medical diagnosis and referring them to Link Workers. These Link Workers engage patients in conversation to propose and support tailored participation in community activities such as music, art, or cooking classes, health exercises, and gardening. Through this, the UK government aims to restore the mental and physical health of its citizens (8), reduce the workload of GPs, and ultimately decrease NHS financial expenditure (9).
+
+Recently, the South Korean government announced the 'Basic Plan for Community-Based Integrated Care (Community Care)' to promote community-centered social services. The goal is to enable individuals requiring care within the community to lead healthy lives in their own homes, rather than in medical institutions, by connecting them with appropriate services (10). While urban areas are piloting various community care initiatives led by government pilot projects or local authorities (11), rural areas face a relative lack of related activities and research, along with insufficient personnel and resources for future implementation. Therefore, this study was conducted in a rural area of Gangwon Province to understand the characteristics of the rural environment and its residents, aiming to contribute to the realization of a nationwide rural community care model in the future.
+
+This study implemented a Music Storytelling program, a form of social prescribing, for elderly individuals aged 65 and over in Heungeup-myeon, Wonju-si, Gangwon-do, and compared the reduction in depressive symptoms before and after the program. The findings aim to provide foundational data for developing future rural community care models. Recognizing the limitations of purely medical prescriptions in achieving community care for residents and the current lack of, or weak mechanisms for developing non-medical approaches in government community care pilot projects, this research focused on developing programs utilizing non-medical methods. The study sought to confirm the effects of the Music Storytelling program, as a component of social prescribing, on the depression and lives of community-dwelling elderly.
+
+2. Research Objective
+
+This study aims to verify the effectiveness of the Music Storytelling program implemented to reduce depressive symptoms among elderly individuals aged 65 and over residing in a rural area. The specific objectives are as follows:
+First, to determine the effect of the Music Storytelling program on reducing depressive symptoms among rural elderly.
+Second, to identify changes in social relationships among rural elderly participating in the Music Storytelling program and confirm its effects.
+
+II. Methods
+
+1. Research Design
+
+This study employed a mixed-methods approach with a pre-test, intervention, and post-test design (Table 1). For the quantitative aspect, the Korean version of the Geriatric Depression Scale (GDS-K) was administered before and after the program to measure changes in participants' depressive symptoms. For the qualitative aspect, focus group interviews (FGI) were conducted after the 4-week program intervention to evaluate the effects of the social prescribing program.
+
+(Table 1. Research Design - Already provided in English)
+E: Measurement of depression using GDS-K (Quantitative study)
+FGI: Focus Group Interview (Qualitative study)
+X1: Music Storytelling program (Social prescribing program)
+
+2. Study Participants
+
+The study targeted 1,624 elderly individuals aged 65 and over residing in Heungeup-myeon, Wonju-si, Gangwon-do (total population 9,105 as of Dec 2018), representing 17% of the township's population. Based on recommendations from the Heungeup-myeon Administrative Welfare Center, 24 individuals were initially selected. The Music Storytelling program was conducted over four weeks, from August 14 to September 4.
+
+(Table 2. General characteristic of subjects - Already provided in English)
+
+Among the initial 24 participants, 14 attended all four program sessions, 5 attended three sessions, 4 attended two sessions, and 1 attended only one session. (The analysis focused on the 14 who completed all sessions).
+
+3. Program Content and Operation
+
+The intervention program, Music Storytelling, is a process designed to help individuals discover their inner stories through music therapy techniques, leading them towards a better life. Its purpose is to restore self-esteem through self-reflection and help form hope and vision for life. The Music Storytelling program received a service mark registration from the Korean Intellectual Property Office in 2013 (Registration No. 41-0270261).
+
+The program consisted of three main components: First, Rhythm for Life (RFL), focusing on creating rhythm and enhancing affinity within life; Second, Guided Imagery and Music (GIM), aimed at self-storytelling and cognitive enhancement; and Third, Movement Improvisation Circle (MIC), designed for enhancing motor skills and integration. The RFL component initiated rapport-building activities, such as playing instruments or tools together following a rhythm, or rewriting lyrics of existing songs with personal stories. Following this, the GIM component involved activities aimed at self-awareness, recalling past stories, or thinking about and expressing oneself. Finally, the MIC component concluded the session with light physical activities, including simple stretching and calisthenics for mind-body relaxation, accompanied by meditation or breathing techniques set to music (Figure 1).
+
+Three program experts (Music Storytellers) delivered the program, allocating 25 minutes to each component. The program was conducted once a week for 70 minutes per session, totaling 280 minutes over four weeks, at the Edu Education Center within a community welfare center located in a local apartment complex.
+
+(Figure 1. Contents of Music Storytelling Program - Already provided in English)
+
+4. Research Tools and Data Collection
+
+1) Quantitative Research
+To measure depressive symptoms, the Korean version of the Geriatric Depression Scale (GDS-K), originally developed by Yesavage and Sheikh (1986) and validated in Korean by Kee BS (1995), was used. This tool consists of 30 items with a binary 'yes'/'no' response format. The total score ranges from 0 to 30, with higher scores indicating greater levels of depression. Scores of 0-9 indicate normal range, 10-20 suggest moderate depression, and 21-30 indicate severe depression. The reliability (Cronbach’s α) of the Korean version was reported as .84, and in this study, it was .75.
+
+Participant recruitment involved explaining the purpose and objectives of the social prescribing program to the Heungeup-myeon Administrative Welfare Center, village heads, and senior center executives, who then recommended 35 potentially suitable candidates. Subsequently, a researcher holding a Health Educator certification contacted these 35 individuals by phone, explained the program's purpose and objectives, inquired about their willingness to participate, and recruited those who expressed interest.
+
+Data collection was conducted by the researcher and trained undergraduate research assistants at senior centers (Gyeongro-dang) and community welfare centers in each village. Investigators conducted one-on-one interviews using a structured questionnaire only with participants who provided written informed consent.
+
+2) Qualitative Research
+Focus group interviews (FGI) were conducted for the qualitative research. FGIs are a method for understanding the meanings and content perceived by participants (12), actively utilizing group interaction to elicit data and insights that might be difficult to obtain through other methods (13). A semi-structured questionnaire was used for the FGI, with key questions including: 'How was your experience participating in the program?', 'What were the positive aspects of participating in the program?', 'What personal changes have you noticed since participating?', and 'Has there been any change in your relationships with other program participants?' (Table 3).
+
+Data were collected on September 27, 2019, after the program concluded, through a 35-minute FGI with 5 participants who consented to the interview.
+
+(Table 3. Questions of Focus Group Interview - Already provided in English)
+
+5. Data Analysis
+
+1) Quantitative Research
+Quantitative data were analyzed using SPSS Statistics 21.0. Specific analysis methods were as follows:
+First, the general characteristics of the study participants were analyzed using frequencies, percentages, means, and standard deviations.
+Second, the Wilcoxon signed-rank test was used to examine the difference in depression scores before and after the intervention for the experimental group.
+
+2) Qualitative Research
+Qualitative data from the interviews were audio-recorded with participants' consent and transcribed verbatim for analysis. The analysis employed a narrative research method, specifically interpreting the meaning of data within individual stories (14). Concretely, the researcher transcribed the FGI content fully and then categorized and analyzed the transcribed narratives according to emerging themes or stories.
+
+III. Results
+
+1. General Characteristics of Participants
+
+Among the 14 participants, 12 (85.7%) were female and 2 (14.3%) were male. Nine participants (64.3%) were under 85 years old, and 5 (35.7%) were 85 years or older. The average age was 82.36 years (Table 4).
+
+(Table 4. General characteristic by sex and age (N=14) - Already provided in English)
+
+2. Comparison of Pre- and Post-Intervention Depression Scores
+
+The average depression score of the participants decreased from 12.38 points before the program to 8.30 points after the program, showing a reduction of 4.08 points (Figure 2). A Wilcoxon signed-rank test confirmed that this reduction in depression symptoms was statistically significant (p=.008) (Table 5).
+
+(Figure 2. Comparison of average depression score of subjects before and after the program. - Already provided in English)
+(Table 5. Result of Wilcoxon Test for Depression Score (N=14) - Already provided in English)
+
+3. Qualitative Evaluation Results
+
+The focus group interview data from 5 elderly participants were analyzed, yielding four main themes based on the interpreted meaning: 'Enjoyment of the Music Storytelling Program', 'Improvement in Self-Esteem', 'Gaining Vitality through Intergenerational Exchange', and 'Expansion of Social Relationships'.
+
+1) Interview Content According to the Four Themes
+
+(1) Enjoyment of the Music Storytelling Program
+
+"I enjoyed everything in this program. I don't know why, but I just found it all fun. I participated actively. Very actively." - Ms. K (F), 89 yrs
+"I enjoyed it too. I haven't missed a single session so far." - Ms. Y (F), 82 yrs
+"It's fun doing this. Even when I go home... I can't really sing loudly because of the neighbor, right? But the house next door became vacant. So I sing the things I learned, like the Arirang song." - Ms. P (F), 84 yrs
+(2) Improvement in Self-Esteem
+
+"So, they called again yesterday, the teachers came too. They said I did well yesterday. Oh, it felt so good hearing that I did well... Being treated like this, I feel so thankful and grateful." - Ms. K (F), 89 yrs
+"Where else would we receive such treatment except here? Being treated well by the teachers, even getting a glass of Sikhye (sweet rice drink) feels so 감사 (thankful)... I feel more courageous, and I look forward to the days we have this (program)." - Ms. L (F), 76 yrs
+(3) Gaining Vitality through Intergenerational Exchange
+
+"It makes you forget your age, doing it together. I feel younger. Doing it with the young students makes me feel young." - Ms. P (F), 84 yrs
+"The teachers treat us like real friends, so when I come here, I feel like a student." - Ms. K (F), 89 yrs
+"Having fun here made me feel younger. Like (we) became kindergarten students. So it was really nice." - Ms. Y (F), 82 yrs
+"I feel like a student, like I've gone back to the old days. I don't feel like we're doing this because we're old, it feels like we're getting younger." - Ms. L (F), 76 yrs
+(4) Expansion of Social Relationships
+
+"(Gesturing holding hands and raising/lowering them together) This was the most fun part for me." - Ms. K (F), 89 yrs
+"When we meet here and then part ways, right? If we see each other somewhere else, it feels even nicer to meet." - Ms. K (F), 89 yrs
+"When the person in the wheelchair comes, I really want to take care of them. With everything." - Ms. L (F), 76 yrs
+"Now, my age is close to going to heaven, but young people invite us like this... it's really nice." - Ms. P (F), 84 yrs
+2) Interpretation of Interview Content by Theme
+
+(1) Enjoyment of the Music Storytelling Program
+Participants expressed the fun and enjoyment they experienced during the Music Storytelling program activities. They mentioned looking forward to the program days and actively engaging in the activities. This indicates the 'enjoyment of program activities' felt by the participants and the resulting 'spontaneous active participation'.
+
+(2) Improvement in Self-Esteem
+Participants spoke about feeling good when praised by the program instructors for their performance and when receiving applause after activities. They also expressed satisfaction with being treated well by others within the program, liking the treatment from the young instructors, and feeling gratitude for the respect shown. Furthermore, some participants reported positive changes in their daily attitudes, stating they 'gained courage' through the program activities. Overall, the positive feedback received from instructors and others during the program activities appeared to enhance the participants' self-esteem.
+
+(3) Gaining Vitality through Intergenerational Exchange
+Participants frequently mentioned that 'interacting with young students (volunteers) made them feel younger themselves, and they didn't feel old', and 'it feels like getting younger'. Engaging in program activities evoked memories of their own student days, providing a sense of rejuvenation. The joy and life vitality derived from interacting with younger generations, such as the 20s volunteers, were evident.
+
+(4) Expansion of Social Relationships
+Participants reported that the instructors' friendly demeanor increased their motivation to participate. They noted the formation of new relationships not only with the young instructors and university student volunteers but also an increased intimacy among participants themselves, indicating improved relationships with neighbors. This suggests that the program effectively expanded the social connections of rural elderly individuals experiencing depressive symptoms, compared to when they stayed at home.
+
+IV. Discussion
+
+Previous research indicates that significant risk factors for depression in elderly populations include bereavement (spouse, family, friends), sleep disturbances, disabilities due to aging, and being female (15). Prolonged exposure to these risk factors can lead to significant difficulties and impairments in daily life, increasing the likelihood of secondary pathological characteristics due to chronic depression (4). With the rising proportion of the elderly population, studies have consistently highlighted the need for comprehensive mental health programs to address the psychological and emotional problems stemming from loneliness and depression (16, 17).
+
+In 2018, the government announced the Community-Based Integrated Care policy, making efforts to address elderly issues comprehensively at the community level (10). However, rural areas face challenges such as shortages of personnel and resources needed for elderly care. As social participation contributes significantly to the successful aging of elderly individuals using senior centers (Gyeongro-dang) (18), social programs that can expand social relationships through participation are necessary. In the UK, social prescribing was introduced as a program to induce social participation in collaboration with the NHS, and since 2018, programs have been implemented in London and other cities (7).
+
+This study aimed to evaluate the reduction in depression among local elderly following the implementation of a social prescribing program utilizing rural community resources, seeking non-medical approaches for the health and emotional care of the elderly using these resources. Accordingly, the 'Music Storytelling' program, a music therapy technique, was conducted over four sessions at a community welfare center within an apartment complex in Heungeup-myeon, Wonju-si, Gangwon-do, yielding the following results.
+
+First, regarding the effect of the Music Storytelling program on reducing depression among rural elderly, the average depression score of the 14 participants decreased from 12.38 to 8.30 points (p=.008). This positive outcome aligns with previous research applying music therapy-based physical activity to elderly individuals with depression (19). Similarly, a study implementing a music play therapy program for elderly at rural senior centers also found a significant decrease in depression scores (20). For elderly individuals already suffering from chronic physical illnesses and cognitive impairments, those at risk of disability, or those vulnerable to antidepressant treatment, medical approaches can have detrimental health effects. Consequently, research increasingly supports new preventive approaches centered on non-pharmacological, evidence-based guidelines as highly beneficial (8, 21). Therefore, it is necessary to expand social prescribing programs like music therapy, which are cost-effective (9) through appropriate coordination of public insurance and social welfare services, highly accessible, and deliverable within the community. This is because such programs not only reduce the level of a single condition like depression but also help participants acquire relevant skills that enhance interpersonal relationships and expand necessary social networks.
+
+Second, the focus group interviews revealed that rural elderly participants in the Music Storytelling program experienced enjoyment, improved self-esteem, gained vitality through intergenerational exchange, and expanded their social relationships. These findings correlate with previous research showing that satisfaction in social relationships influences depression reduction (22, 23). Furthermore, a study on factors influencing depression among urban and rural elderly found that for rural elderly, compared to their urban counterparts, the function of family or community is more crucial, and programs activating family function and local communities can aid mental health (24). This aligns with our findings. Thus, introducing programs that address physical, emotional, and social health aspects, involving interaction with younger generations, appears beneficial for improving the mental health of elderly residents in rural areas.
+
+V. Conclusion
+
+This study verified the effectiveness of the Music Storytelling program in reducing depression among elderly individuals aged 65 and over residing in a rural area, leading to the following conclusions.
+
+First, the Music Storytelling program effectively reduced depressive symptoms among the rural elderly participants, with the average depression score decreasing from 12.38 to 8.30 points (p=.008).
+
+Second, focus group interviews indicated that participating rural elderly experienced enjoyment from the program, improved self-esteem, gained vitality through intergenerational exchange, and expanded their social capital (social relationships).
+
+In conclusion, the Music Storytelling program, as a form of social prescribing, demonstrated effectiveness in reducing depression among rural elderly. It not only positively influenced their self-esteem and vitality but also facilitated the expansion of social relationships. This suggests its potential as a novel health promotion initiative. Furthermore, the social prescribing program utilized in this study could serve as a new community-level integrated care model for promoting the mental health of elderly individuals in rural areas.
+
+VI. Limitations of the Study
+
+While social prescribing should ideally be initiated by a physician or healthcare professional, this pilot study had the limitation that the need for social prescribing was identified and the program was implemented solely by health educators. Future research should involve confirmation by primary care physicians.
+
+Acknowledgements
+
+We thank Ms. Hyekyung Kim, CEO of Human Yonsei, for her assistance with the Music Storytelling program design and research implementation. We also express our gratitude to the Heungeup-myeon Administrative Welfare Center, Gyeongdong Apartment Senior Center, and LH Cheonnyeonnamu Apartment officials for their cooperation in making the program possible. Finally, we extend our deepest gratitude to the local elderly participants.
+
+Funding
+
+This research was supported by the Ministry of Education of the Republic of Korea and the National Research Foundation of Korea (NRF-2018S1A5A2A03039636).   
+
+References
+
+(List of references 1-24 as provided in the original text)
+
+Abstract (Korean Version Translated to English)
+
+Objective: To identify the extent of the effect of a Music Storytelling program on reducing depressive symptoms and changing social relationships among elderly people in a rural area.
+Methods: This study aimed to evaluate the effects of a social prescribing program conducted over 4 weeks from August 14 to September 4, 2019, at a community welfare center within a rental apartment complex in Heungeup-myeon, Wonju-si, Gangwon-do. A pre-post test design was used to assess the reduction in depression among 14 elderly participants (aged 65+) in the Music Storytelling program, supplemented by qualitative research through focus group interviews.
+Results: After the implementation of the Music Storytelling program, the average depression score of the participating elderly decreased from 12.38 to 8.30 points (p=.008). Furthermore, focus group interviews revealed that the elderly experienced enjoyment, improved self-esteem, gained vitality through intergenerational exchange, and expanded their social relationships through the program.
+Conclusion: The results of this study suggest that the Music Storytelling program, as a social prescribing initiative, is effective in reducing depressive symptoms among rural elderly. It positively impacts their self-esteem and vitality, and offers potential as a new health promotion project capable of expanding social relationships.
+
+Keywords: Rural area, Elderly, Depression, Social Prescribing, Social Relationship

@@ -1,0 +1,18 @@
+{
+    "model_type": "NMF",
+    "num_topics_k": 6,
+    "random_state": 42,
+    "tfidf_vectorizer_params": "{'analyzer': 'word', 'binary': False, 'decode_error': 'strict', 'dtype': <class 'numpy.float64'>, 'encoding': 'utf-8', 'input': 'content', 'lowercase': True, 'max_df': 0.85, 'max_features': 5000, 'min_df': 3, 'ngram_range': (1, 1), 'norm': 'l2', 'preprocessor': None, 'smooth_idf': True, 'stop_words': 'english', 'strip_accents': None, 'sublinear_tf': False, 'token_pattern': '(?u)\\\\b\\\\w\\\\w+\\\\b', 'tokenizer': None, 'use_idf': True, 'vocabulary': None}",
+    "nmf_model_params": "{'alpha_H': 'same', 'alpha_W': 0.0, 'beta_loss': 'frobenius', 'init': 'nndsvda', 'l1_ratio': 0.0, 'max_iter': 400, 'n_components': 6, 'random_state': 42, 'shuffle': False, 'solver': 'cd', 'tol': 0.0001, 'verbose': 0}",
+    "performance_metrics_from_first_run": {
+        "Model": "NMF (k=6)",
+        "Parameter_Value": 6,
+        "Parameter_Type": "k",
+        "Num Topics": 6,
+        "Coherence (C_v)": 0.6367137365110824,
+        "Log Perplexity": NaN,
+        "Topic Diversity": 0.95,
+        "Topic Size StdDev": 1.2110601416389968,
+        "Time (sec)": 9.450945854187012
+    }
+}

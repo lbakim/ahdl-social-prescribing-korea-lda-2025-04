@@ -1,0 +1,147 @@
+Social Disease ‘Loneliness’ and Social Prescription ‘Connecting Society’
+
+Transition from the Japanese policy direction focusing on solitary death and hikikomori (reclusive loners) to the British policy direction emphasizing social relationships as a solution to loneliness. To address loneliness as a social disease, Jeonbuk-style connecting society requires legal and institutional arrangements, establishment of comprehensive countermeasures, and loneliness prevention/healing projects such as social prescribing
+
+I. New Risk ‘Loneliness’
+
+Modern Society's Risks and Social Disease
+
+○ In modern society, individuals are fragmented, and the foundations for forming social trust or community culture have collapsed. Without the state's 'authorized prescription' where the community protected individuals (Baumann, 2000), people live in a relentlessly changing world, making choices and taking responsibility themselves, feeling anxious more often than before, living in a 'fatigue society' (Han Byung-Chul, 2012) (Jang Segil, 2022).
+○ Most modern individuals, preoccupied with achieving results amidst severed social networks, face mental health problems, particularly loneliness. Loneliness is not just an issue for the socially vulnerable but a risk of modern society experienced by everyone living today.
+○ The UK defines loneliness as an 'epidemic'.
+- Research suggests it is as harmful as smoking 15 cigarettes a day and more than doubles the likelihood of suffering from Alzheimer's disease (Song In-ju et al., 2018). According to the US National Institute on Aging, the annual social cost resulting from loneliness is approximately 7 trillion won.1)
+○ While issues like solitary death have heightened interest in the elderly population, various research findings show that loneliness is experienced across all age groups, from children and adolescents to the elderly.
+- Results from studies targeting residents aged 16-99 in various countries, as well as domestic surveys, indicate that younger people experience loneliness more frequently. While only 17% of those aged 60 and over reported feeling lonely 'often' or 'almost always,' 40% of respondents in their 20s reported experiencing loneliness (Jeong Han-ul, 2018).
+
+Concept and Factors of Loneliness
+
+○ Solitude, interpreted as '(pleasant) aloneness,' is the result of deliberately choosing 'aloneness' according to one's own desires and will (Seo Young-seok et al., 2020), a positive capability concept that can be closely related to personal reflection and growth (Kang Dae-seon et al., 2021).
+○ Loneliness is a problem of severed human relationships (Kang Dae-seon et al., 2021), referring to the unpleasant feeling or experience of personal suffering and hurt arising when the quantity and quality of social connections do not meet an individual's desires (Seo Young-seok et al., 2020). Voluntary solitude aids personal growth and creativity, whereas involuntary loneliness is an experience of suffering from being alone.
+- In policy, key concepts used include loneliness, sense of solitude, socially isolated households, solitary death, etc.
+
+(Table Defining Loneliness and Related Concepts - Assumed to be provided, including sources like Gierveld, Sullivan, Weiss, Perlman & Peplau, Townsend, Vincenzi & Grabosky, Hwang et al., Ordinances, Laws)
+
+○ Based on social needs theory, loneliness is divided into emotional loneliness and social loneliness.
+
+(Table Distinguishing Emotional vs. Social Loneliness - Assumed to be provided, including causes and solutions based on Choi Hyun-young et al., 2016; Seoul Institute, 2019)
+
+○ Factors contributing to loneliness include socio-demographic factors, family factors, occupational and economic situation factors, housing factors, health factors, and social relationship factors.
+
+(Table Detailing Factors Increasing Loneliness - Assumed to be provided, based on Kang Dae-seon et al., 2021, pp. 308-310)
+
+○ Loneliness as a social disease refers to the experience of suffering resulting from the unconscious and involuntary severance of social relationships. Therefore, the solution lies in helping individuals restore social relationships to foster a sense of social integration.
+
+II. Loneliness Response Policy Examples
+
+International Cases
+
+○ The UK is a frontrunner in implementing national loneliness resolution policies. It established the world's first Ministry for Loneliness, with the Secretary of State for Digital, Culture, Media and Sport (equivalent to Korea's Ministry of Culture, Sports and Tourism) concurrently holding the position of Minister for Loneliness.
+○ As indicated by the responsible ministry and concurrent ministerial role, the primary direction of loneliness policies in the UK and Europe is to resolve the issue through strengthening social relationships via cultural and leisure activities, essentially creating a 'connecting society'.
+○ Japan promotes policies within the social welfare domain to alleviate issues like solitary death and hikikomori (reclusive loners).
+
+(Table Summarizing UK, Scotland, Japan Policies - Assumed to be provided, based on Seoul Institute 2019, Busan Women & Family Development Institute 2020, media reports)
+
+Ministry Cases (Korea)
+
+○ Following the passage of the partial amendment to the 「Framework Act on Healthy Families」 (Support for Single-Person Households Act) in 2018 and the enactment of the 「Act on the Prevention and Management of Solitary Death」 in 2021, policies related to social isolation have been promoted.
+○ Similar to Japanese policies focusing on solitary death and hikikomori, Korean policies initially centered on preventing and managing solitary death. Recently, however, the Ministry of Culture, Sports and Tourism (MCST) has conceptualized policies emphasizing social networks as a response to loneliness, akin to the UK and Scotland cases.
+
+(Table Detailing Joint Ministry Plan for Solitary Death Prevention ('23-'27) - 4 Strategies: Identification, Connection Strengthening, Life-Cycle Support, Policy Infrastructure - Assumed to be provided)
+(Table Detailing Ministry of Gender Equality & Family Plans supporting Single-Person Households - Life-cycle approach, common support (counseling, relationships, care, education), women-specific safety measures - Assumed to be provided)
+(Table Detailing Ministry of Culture, Sports and Tourism 'Connecting Society Regional Hub Program' - Goal: relationship recovery via communication/connection/cultural resources; Content: program development/operation support (5 regions), research, policy forum; Funding - Assumed to be provided)
+
+Regional Cases (Korea)
+
+○ Regionally, policies adopted Japan's model, providing social services to specific groups facing issues like solitary death, rather than the European model for loneliness resolution. Recently, regions are emerging that separately enact loneliness ordinances and promote comprehensive countermeasures, especially post-COVID pandemic.
+- Ordinances supporting single-person households, preventing solitary death, etc., are implemented in over 100 regions nationwide. Projects are also primarily driven by social welfare and women/family sectors focusing on single-person households and solitary death response.
+
+(Table Summarizing Ordinances by Province related to Solitary Death, Social Isolation (Youth/1-person household), Elderly Support, Reclusive Individuals - Assumed to be provided, referencing data from Local Laws and Regulations Information System, Aug 31, 2023)
+
+○ Ordinances directly targeting 'loneliness' preventively for all residents, not specific groups, include Busan (Ordinance on Healing Loneliness and Promoting Happiness, enacted May 2019) and Gyeongbuk (Ordinance on Overcoming and Preventing Loneliness Support, enacted Sep 2022).
+
+(Table Detailing Key Contents of Busan & Gyeongbuk Loneliness Ordinances - Definitions, Plans, Surveys, Indicators, Support Projects, Committees, Collaboration - Assumed to be provided)
+
+○ Jeonbuk has only enacted the 「Ordinance on Prevention and Management of Solitary Death」 based on the national law. While ordinances targeting specific groups are needed, considering loneliness is a social disease affecting all Jeonbuk residents and preventive policies are necessary, enacting an ordinance concerning loneliness prevention/healing and realization of a connected society, referencing Busan/Gyeongbuk cases, is required.
+
+○ Projects directly related to loneliness include Gyeongbuk Province's 'K-Loneliness Countermeasure Project' and Hoengseong County, Gangwon Province's 'Loneliness Sympathy Corps Befriending Program'. Busan was the first to enact a loneliness-related ordinance and conduct related research.
+
+(Table Summarizing Specific Regional Projects (Gyeongbuk, Seoul, Sejong, Hoengseong) - Loneliness task force, K-Loneliness Project (dialogue challenge, counseling centers), Seoul Single-Person Household support (task force, portal, centers), Sejong Loneliness Officer, Hoengseong Befriending Program (volunteer training, surveys, self-help groups) - Assumed to be provided, based on media reports)
+
+III. Social Relationship Level and Policy Direction
+
+Jeonbuk Residents' Social Relationship Level2)
+
+○ People available to help when physically ill: 'Yes' 76.3%, 'No' 23.7%
+- Men slightly higher response rate than women. Highest 'Yes' rate among 18-20 year olds (84.2%), lowest among 30s (63.2%).
+○ People available for financial help (excluding family): 'Yes' 65.1%, 'No' 34.9%
+- Men slightly higher response rate than women.
+○ Pet ownership: 'No' 76.3%. If yes, 'Dog' 19.5%, 'Cat' 5.7%, 'Other' 0.8%.
+- Slight gender differences per item, but overall trend consistent.
+○ Exchange help with neighbors: 'Exchange help' 43.2%, 'Neutral' 40.7%.
+- Highest rate among 60+ age group (49.0%), followed by 50s (47.2%), 40s (42.0%), indicating more positive neighborly relationships among older age groups.
+○ Frequently visit neighbors: 'Neutral' 33.6%, 'Yes' 31.3%, 'No' 21.3%, 'Not at all' 10.2%, 'Very much yes' 3.6%.
+- Highest proportion think they visit frequently (34.9%), but close to 'Neutral' (33.6%). Most frequent visiting group is 60+ (48.5% visit frequently), lowest is 30s (20.5%).
+
+Loneliness Response Policy Directions
+
+○ First, responding to loneliness requires not just primary approaches like counseling and treatment, but a policy approach aimed at creating a system where people experiencing loneliness can live routinely within the community by utilizing community resources – i.e., creating a connecting society.
+○ Second, Korea applied Japan's solitary death policy, providing social services targeting specific groups like the elderly and single-person households within the social welfare field. The UK, etc., set all citizens as beneficiaries of loneliness policy, promoting cultural and leisure activities as main projects. Policy beneficiaries should be expanded to all citizens, and following the UK government's example, the cultural sector should be set as a core policy target, making community recovery a primary goal.
+○ Third, alongside services resolving social problems resulting from loneliness (like solitary death), a dual strategy supporting prevention and healing before loneliness leads to social problems is needed. Furthermore, differentiated policy conceptualization based on loneliness type and risk level is required.
+
+(Diagram: Dual Support System for Loneliness Response - Assumed to be provided, based on Seoul Institute, 2019)
+(Diagram: Policy Target Group Categorization based on Self-Report Questions - Assumed to be provided, based on Seoul Institute, 2019)
+
+○ Fourth, an integrated approach linking similar projects across various fields, and connecting diverse private assets (arts activities, physical activities, learning, volunteering, social/self-help groups, etc.) is needed to create a sustainable ecosystem of public-private cooperation.
+○ Fifth, similar to youth policy where all provincial departments jointly establish and promote policies, comprehensive countermeasures for preventing and healing loneliness should be established and promoted jointly by relevant departments, not just the task of a single department.
+
+IV. Tasks for a Connected Society Jeonbuk
+
+Enactment of Ordinance
+
+○ Provincial/metropolitan ordinances related to loneliness, solitude, and isolation (30 as of Aug 31, 2023) are mostly based on the 「Act on the Prevention and Management of Solitary Death」 enacted post-law, or target specific groups like socially isolated single-person households or youth/elderly. Following Japan's policy direction focusing on solitary death and hikikomori, most ordinances prevent social problems like solitary death from a social welfare perspective.
+○ Ordinances directly targeting 'loneliness' preventively for all residents, not specific groups, include Busan (Ordinance on Healing Loneliness and Promoting Happiness, enacted May 2019) and Gyeongbuk (Ordinance on Overcoming and Preventing Loneliness Support, enacted Sep 2022).
+○ Jeonbuk has only enacted the 「Ordinance on Prevention and Management of Solitary Death」 based on the national law. While ordinances targeting specific groups are needed, considering loneliness is a social disease affecting all Jeonbuk residents and preventive policies are necessary, enacting an ordinance concerning loneliness prevention/healing and realization of a connected society, referencing Busan/Gyeongbuk cases, is required.
+
+Establishment of Support System
+
+○ (Dedicated Department) While policies should be established and promoted jointly by departments, actively considering the Culture, Sports, and Tourism Bureau as the dedicated department for loneliness policy, like the UK case, is necessary.
+- The Culture, Sports, and Tourism Bureau could be responsible for loneliness policy overall, while existing departments handle subordinate projects related to solitary death, single-person households, etc.
+○ (Indicator Development, Surveys) Develop indicators to grasp the loneliness status of Jeonbuk residents by life cycle and loneliness risk level to promote prevention/healing support policies. Conduct regular surveys, set stage-specific policy goals (loneliness level), and manage them annually.
+- Scotland's indicator examples: Places for interaction, loneliness, children's well-being & happiness, children maintaining positive relationships, mental well-being, cultural activity participation, trust in children & youth, physical activity.
+○ (Support Center, Intermediary Personnel) Operate regional Loneliness Prevention & Healing Centers (hubs) responsible for linking local assets with individuals experiencing loneliness. Foster and support the activities of intermediary personnel (strengthening social relationships) to prevent/heal loneliness.
+- Utilize existing specialized/intermediary personnel such as social welfare workers, lifelong education professionals, local cultural personnel, community sports personnel, agriculture/forest/marine therapy personnel, etc., training them as social prescribing activists for loneliness.
+○ (Basic Plan) Establish a tentatively named 'Jeonbuk Special Self-Governing Province Basic Plan for Loneliness Prevention/Healing and Realization of a Connected Society' and promote comprehensive and systematic policies by establishing and implementing annual action plans.
+○ (Cooperative System) Since active participation from the private sector, including communities and businesses, is crucial for responding to social loneliness, establish a multi-layered support system connecting businesses and communities centered around existing public infrastructure.
+
+Discovery of Support Projects
+
+○ Develop social service projects to prevent loneliness, referencing cases from other regions and similar projects. Discover and promote support projects for high-risk groups identified through loneliness surveys and self-report questionnaires.
+- (Examples from other regional ordinances) Research projects on causes/healing of loneliness, idea contests for solving loneliness problems, expert training and promotion projects.
+- (Examples from Busan research) Strengthening family relationships (family participation programs, counseling services related to family dissolution), improving housing environments (supply of diverse social housing), supporting economic independence (financial consulting), forming social relationships (dialogue services utilizing everyday spaces like cafes/marts, friend rental services, services utilizing pet plants/animals/robots, loneliness care industry).
+○ Develop a Jeonbuk-style 'Social Prescribing' project model that strengthens social networks by linking local assets with loneliness policy targets, and promote national project status after piloting.
+- Select social prescribing operating institutions (e.g., cultural foundation, sports council, lifelong education institute, social welfare center, etc.), establish a pilot project system linking hospitals/clinics, develop and operate programs through R&D.
+- Prepare and pilot test methods for linkage with health insurance.
+
+(Box: UK Social Prescribing Concept and Eden Project Example - Definition, Link Worker Role, Eden Project details including Vounder Garden program and St Austell Healthcare pilot results - Assumed to be provided)
+(Diagram: Integrated Non-Medical Community Prescription - Assumed to be provided)
+
+○ Implement loneliness resolution social prescribing programs using the SIB (Social Impact Bond) model to secure sustainability through public-private cooperation.
+- Explore developing independent SIB projects for reducing social isolation or utilizing the Ministry of Health and Welfare's 'Community Service Investment Project'.
+
+(Box: UK (Worcestershire) SIB Case for Reducing Social Isolation - Implementing agency (Age UK), Investors, Payers, Operating agency (Social Finance Ltd.), Content (targeting 50+ high-risk group based on R-UCLA, activities like befriending/group activities), Evaluator (LSE), Payment structure (per participant based on R-UCLA score reduction at 6 & 18 months) - Assumed to be provided)
+
+References
+
+(List of references as provided in the original text)
+
+The Need for Comprehensive Measures to Combat Loneliness: Fostering Social Relationships and a Connected Society in Jeonbuk
+
+Jang segil, Research Fellow
+
+Loneliness, described as a social disease and a threat to today’s society, refers to the painful experience that can result from the unconscious and involuntary severance of social relationships. The UK government describes loneliness as an epidemic and is trying to solve the problem of loneliness by establishing the world’s first ministry of loneliness to strengthen social relationships. In Japan, policies focusing on social welfare domains are implemented to alleviate various related issues, such as reclusive loners and lonely deaths. Similarly, Korean policies also have focused on preventing and managing lonely deaths. Recently, the Korean Ministry of Culture, Sports and Tourism is designing policies stressing the significance of social networks as a response to loneliness, following the example of Scotland, which has seen success with such policies.
+
+The solution to loneliness should aim to help restore social relationships to achieve social integration. Instead of targeting specific subgroups’ problems, such as lonely deaths, policy should focus on creating a connected society that establishes social relationships among the public.
+
+We propose the following policies. First, an ordinance supporting projects to prevent and cure loneliness is required that considers all residents in Jeonbuk province, not only particular subgroups, such as single-person households or those vulnerable to lone deaths. Second, a multi-layered support system is needed. For example, the department of culture should be dedicated to creating and implementing loneliness policies. As part of this, loneliness indicators for Jeonbuk should be developed and managed through fact-finding surveys. A support system should also be established that promotes public-private cooperation. Third, social intervention programs for Jeonbuk should be developed to reduce social loneliness, and the programs should be in the form of a Social Impact Bond (SIB) for sustainability.
+
+Key words: loneliness, connected society, social intervention programs, Jeonbuk
